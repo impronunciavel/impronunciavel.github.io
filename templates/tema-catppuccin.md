@@ -5,8 +5,8 @@
 	    line-height: 1.6;
 	    margin: 0;
 	    padding: 0;
-	    background-color: #f0eae4; /* Bege claro */
-	    color: #3e2f2b; /* Marrom escuro */
+	    background-color: #291c14; /* Fundo escuro semelhante ao Cappuccino */
+	    color: #fff; /* Texto branco */
 	}
 	
 	/* Contêiner principal */
@@ -14,31 +14,31 @@
 	    max-width: 800px;
 	    margin: 0 auto;
 	    padding: 20px;
-	    background-color: #fff; /* Branco */
+	    background-color: #3a281c; /* Fundo um pouco mais claro */
 	    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra sutil */
 	}
 	
 	/* Estilo dos títulos */
 	h1, h2, h3 {
 	    font-family: 'Helvetica Neue', sans-serif;
-	    color: #3e2f2b; /* Marrom escuro */
+	    color: #fff; /* Texto branco */
 	}
 	
 	/* Estilo dos links */
 	a {
-	    color: #6e4e48; /* Marrom mais claro para links */
+	    color: #e07a5f; /* Cor laranja para links */
 	    text-decoration: none;
 	    transition: color 0.3s;
 	}
 	
 	a:hover {
-	    color: #a87e76; /* Marrom claro para links ao passar o mouse */
+	    color: #c35c42; /* Cor laranja mais escura ao passar o mouse */
 	}
 	
 	/* Estilo das citações */
 	blockquote {
-	    background-color: #f5e9e2; /* Bege claro */
-	    border-left: 5px solid #6e4e48; /* Marrom claro à esquerda */
+	    background-color: #34231a; /* Fundo marrom escuro */
+	    border-left: 5px solid #e07a5f; /* Borda laranja à esquerda */
 	    margin: 1em 0; /* Espaçamento nas margens */
 	    padding: 20px; /* Preenchimento interno */
 	}
@@ -56,8 +56,8 @@
 	
 	/* Estilo para código (opcional) */
 	pre {
-	    background-color: #f0eae4; /* Bege claro */
-	    border: 1px solid #d8d8d8; /* Cinza claro para bordas */
+	    background-color: #3a281c; /* Fundo marrom escuro semelhante ao Cappuccino */
+	    border: 1px solid #2b1f15; /* Borda marrom mais escura */
 	    padding: 10px;
 	    overflow-x: auto;
 	    font-family: 'Courier New', monospace;
@@ -65,15 +65,15 @@
 	
 	code {
 	    font-family: 'Courier New', monospace;
-	    background-color: #f0eae4; /* Bege claro */
-	    border: 1px solid #d8d8d8; /* Cinza claro para bordas */
+	    background-color: #3a281c; /* Fundo marrom escuro semelhante ao Cappuccino */
+	    border: 1px solid #2b1f15; /* Borda marrom mais escura */
 	    padding: 2px 4px;
 	}
 	
 	/* Estilo para data e autor */
 	.date-author {
 	    font-size: 14px;
-	    color: #8a6f68; /* Marrom mais escuro para informações de data e autor */
+	    color: #b8a387; /* Cor de texto mais clara */
 	    margin-top: 10px;
 	}
 </style>
