@@ -185,14 +185,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "templates/tema-catppuccin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35c4767752ff5817",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/jujutsu/Tecnicas Inatas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -258,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "zettelkasten/jujutsu/Tecnicas Inatas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +287,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "zettelkasten/jujutsu/Tecnicas Inatas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -298,7 +310,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "zettelkasten/jujutsu/Tecnicas Inatas.md"
               }
             }
           }
@@ -318,12 +330,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2829d2feb0b0e61e",
+  "active": "35c4767752ff5817",
   "lastOpenFiles": [
-    "zettelkasten/jujutsu/Tecnicas Inatas.md",
+    "templates/tema-catpuccin-O.md",
     "templates/tema-catppuccin.md",
-    "templates/tema-obsidianite.md",
     "index.md",
+    "zettelkasten/jujutsu/Tecnicas Inatas.md",
+    "templates/tema-obsidianite.md",
     "README.md",
     "templates/obsidianite.css",
     "templates/obsidianite.txt",
