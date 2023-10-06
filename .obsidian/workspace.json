@@ -1,0 +1,331 @@
+{
+  "main": {
+    "id": "006a8025189a37dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "cba88b5f436a53a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3b03e11c07d732b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e7a6cbadd7ffe234",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1593c69b3a5c1d47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/jujutsu/Expansão de Domínio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5402e1e8097a2c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/jujutsu/Domínios.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3565ade694644346",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/jujutsu/Domínios.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "263dd5cf6f6629b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "279842c198948b0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/jujutsu/Barreiras.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13fa7f1ec56ead49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/jujutsu/Extensão.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e97d8d98038dc8f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/jujutsu/Projeção.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d533c61fbbe95d13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61321c2600b1a359",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Tecnica Base.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1ae626ff647c7a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "233bbd45a0b9a81c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5339d1e0b797ebe6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 13
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "423cdfe4793dcb11",
+    "type": "split",
+    "children": [
+      {
+        "id": "25fd09e6b402e079",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ad0baeefdefac02",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6f9cb19099edd966",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a60e7d26bc99f271",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5adb29ccdeec2aa8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2aab41c361301ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "629df7c4e33dd366",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "34554c3dad8676a1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a82cccd69b947550",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f75af5b8c8eeb9d6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5339d1e0b797ebe6",
+  "lastOpenFiles": [
+    "zettelkasten/jujutsu/Barreiras.md",
+    "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
+    "zettelkasten/jujutsu/Domínios.md",
+    "zettelkasten/jujutsu/Tecnicas Base.md",
+    "index.md",
+    "README.md",
+    "zettelkasten/jujutsu/Tecnicas Anti-domínio.md",
+    "zettelkasten/jujutsu/Tecnica Máxima.md",
+    "zettelkasten/jujutsu/Projeção.md",
+    "zettelkasten/jujutsu/Tecnicas Inatas.md",
+    "templates/link.md",
+    "zettelkasten/jujutsu/Tecnicas-Inatas.md",
+    "zettelkasten/Tecnicas.md",
+    "Tecnicas.md",
+    "zettelkasten/jujutsu/Domínio Simples.md",
+    "zettelkasten/jujutsu/Expansão de Domínio.md",
+    "templates/Tecnica Inata.md",
+    "zettelkasten/jujutsu/Extensão.md",
+    "zettelkasten/jujutsu",
+    "templates/Tecnica Base.md",
+    "templates/note.md",
+    "zettelkasten/jujutsu/Reversão.md",
+    "Vector space in X.md",
+    "Density Function.md",
+    "templates",
+    "media",
+    "zettelkasten"
+  ]
+}

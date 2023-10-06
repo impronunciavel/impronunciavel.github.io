@@ -1,0 +1,44 @@
+{
+  "collapse-filter": true,
+  "search": "path:zettelkasten  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#TecnicaInata  ",
+      "color": {
+        "a": 1,
+        "rgb": 12209999
+      }
+    },
+    {
+      "query": "tag:#TecnicaBase  ",
+      "color": {
+        "a": 1,
+        "rgb": 5020251
+      }
+    },
+    {
+      "query": "tag:#Conceito",
+      "color": {
+        "a": 1,
+        "rgb": 6401535
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.510416666666667,
+  "repelStrength": 9.16666666666667,
+  "linkStrength": 0.760416666666667,
+  "linkDistance": 319,
+  "scale": 1.0000000000000004,
+  "close": false
+}
