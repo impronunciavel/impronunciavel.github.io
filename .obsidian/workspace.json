@@ -163,6 +163,14 @@
             "id": "5339d1e0b797ebe6",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "646a1c329411c1c8",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "zettelkasten/jujutsu/Tecnicas Inatas.md",
@@ -172,7 +180,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -298,15 +306,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5339d1e0b797ebe6",
+  "active": "646a1c329411c1c8",
   "lastOpenFiles": [
+    "index.md",
+    "README.md",
+    "templates/tema-obsidianite.md",
+    "zettelkasten/jujutsu/Tecnicas Inatas.md",
     "templates/obsidianite.css",
     "templates/obsidianite.txt",
     "templates/Novo Documento de Texto.txt",
     "templates/Untitled.md",
-    "zettelkasten/jujutsu/Tecnicas Inatas.md",
-    "index.md",
-    "README.md",
     "zettelkasten/jujutsu/Barreiras.md",
     "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
     "zettelkasten/jujutsu/Domínios.md",
