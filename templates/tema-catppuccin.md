@@ -5,7 +5,7 @@
 	    line-height: 1.6;
 	    margin: 0;
 	    padding: 0;
-	    background-color: #291c14; /* Fundo escuro semelhante ao Cappuccino */
+	    background-color: #1e1e2e; /* Fundo escuro semelhante ao Cappuccino */
 	    color: #fff; /* Texto branco */
 	}
 	
@@ -26,7 +26,7 @@
 	
 	/* Estilo dos links */
 	a {
-	    color: #e07a5f; /* Cor laranja para links */
+	    color: #89b4fa; /* Cor laranja para links */
 	    text-decoration: none;
 	    transition: color 0.3s;
 	}
