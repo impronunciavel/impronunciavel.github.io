@@ -165,7 +165,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "zettelkasten/jujutsu/Tecnicas Inatas.md",
                 "mode": "source",
                 "source": false
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "zettelkasten/jujutsu/Tecnicas Inatas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "zettelkasten/jujutsu/Tecnicas Inatas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "zettelkasten/jujutsu/Tecnicas Inatas.md"
               }
             }
           }
@@ -300,13 +300,13 @@
   },
   "active": "5339d1e0b797ebe6",
   "lastOpenFiles": [
-    "zettelkasten/jujutsu/Tecnicas Inatas.md",
     "index.md",
+    "README.md",
+    "zettelkasten/jujutsu/Tecnicas Inatas.md",
     "zettelkasten/jujutsu/Barreiras.md",
     "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
     "zettelkasten/jujutsu/Domínios.md",
     "zettelkasten/jujutsu/Tecnicas Base.md",
-    "README.md",
     "zettelkasten/jujutsu/Tecnicas Anti-domínio.md",
     "zettelkasten/jujutsu/Tecnica Máxima.md",
     "zettelkasten/jujutsu/Projeção.md",
