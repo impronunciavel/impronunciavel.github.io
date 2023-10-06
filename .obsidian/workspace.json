@@ -173,7 +173,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "zettelkasten/jujutsu/Tecnicas Inatas.md",
                 "mode": "source",
                 "source": false
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "zettelkasten/jujutsu/Tecnicas Inatas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "zettelkasten/jujutsu/Tecnicas Inatas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,7 +286,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "zettelkasten/jujutsu/Tecnicas Inatas.md"
               }
             }
           }
@@ -308,10 +308,10 @@
   },
   "active": "646a1c329411c1c8",
   "lastOpenFiles": [
-    "zettelkasten/jujutsu/Tecnicas Inatas.md",
-    "index.md",
-    "README.md",
     "templates/tema-obsidianite.md",
+    "index.md",
+    "zettelkasten/jujutsu/Tecnicas Inatas.md",
+    "README.md",
     "templates/obsidianite.css",
     "templates/obsidianite.txt",
     "templates/Novo Documento de Texto.txt",
