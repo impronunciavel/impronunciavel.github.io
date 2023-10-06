@@ -44,65 +44,79 @@ Se você ainda não assistiu a Jujutsu Kaisen, eu definitivamente recomendo conf
 
 <style>
 	/* Estilo do corpo da página */
-	body {
-	    background-color: #121212; /* Fundo escuro */
-	    color: #FFFFFF; /* Texto claro */
-	    font-family: Arial, sans-serif; /* Fonte padrão */
-	    line-height: 1.6;
-	    margin: 0;
-	    padding: 0;
-	}
-	
-	/* Estilo dos títulos */
-	h1, h2, h3, h4, h5, h6 {
-	    color: #FFA500; /* Cor laranja para títulos */
-	}
-	
-	/* Estilo dos links */
-	a {
-	    color: #FFA500; /* Cor laranja para links não visitados */
-	    text-decoration: none; /* Remover sublinhado padrão */
-	}
-	
-	a:hover {
-	    color: #FFD700; /* Cor amarela para links ao passar o mouse */
-	}
-	
-	/* Estilo das listas não ordenadas */
-	ul {
-	    list-style-type: disc; /* Marcadores redondos */
-	}
-	
-	/* Estilo das citações */
-	blockquote {
-	    background-color: #333333; /* Fundo cinza escuro para citações */
-	    border-left: 5px solid #FFA500; /* Borda laranja à esquerda */
-	    margin: 1em 0; /* Espaçamento nas margens */
-	    padding: 1em; /* Preenchimento interno */
-	}
-	
-	/* Estilo das tabelas */
-	table {
-	    border-collapse: collapse; /* Mesclar bordas de células */
-	    width: 100%;
-	}
-	
-	th, td {
-	    border: 1px solid #555555; /* Borda das células */
-	    padding: 8px; /* Preenchimento interno */
-	    text-align: left; /* Alinhamento à esquerda */
-	}
-	
-	/* Estilo para destaque de código (opcional) */
-	pre {
-	    background-color: #333333; /* Fundo cinza escuro */
-	    color: #FFFFFF; /* Texto claro */
-	    padding: 10px; /* Preenchimento interno */
-	    border-radius: 5px; /* Borda arredondada */
-	    overflow: auto; /* Rolagem horizontal se necessário */
-	}
-	
-	code {
-	    font-family: Consolas, monospace; /* Fonte monoespaçada para código */
-	}
+body {
+    font-family: 'Helvetica Neue', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #222; /* Fundo escuro */
+    color: #ddd; /* Texto claro */
+}
+
+/* Contêiner principal */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #333; /* Fundo cinza escuro */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Sombra sutil */
+}
+
+/* Estilo dos títulos */
+h1, h2, h3 {
+    color: #f8f8f8; /* Texto branco */
+}
+
+/* Estilo dos links */
+a {
+    color: #007BFF; /* Cor azul para links */
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+a:hover {
+    color: #0056b3; /* Cor azul mais escura ao passar o mouse */
+}
+
+/* Estilo das citações */
+blockquote {
+    background-color: #444; /* Fundo cinza escuro */
+    border-left: 5px solid #007BFF; /* Borda azul à esquerda */
+    margin: 1em 0; /* Espaçamento nas margens */
+    padding: 20px; /* Preenchimento interno */
+}
+
+/* Imagem alinhada ao centro */
+.center-image {
+    display: block;
+    margin: 0 auto;
+}
+
+/* Estilo para listas */
+ul, ol {
+    margin: 0 0 20px 20px;
+}
+
+/* Estilo para código (opcional) */
+pre {
+    background-color: #333; /* Fundo cinza escuro */
+    color: #f8f8f8; /* Texto branco */
+    padding: 10px;
+    overflow-x: auto;
+    font-family: 'Courier New', monospace;
+}
+
+code {
+    font-family: 'Courier New', monospace;
+    background-color: #444; /* Fundo cinza escuro */
+    color: #f8f8f8; /* Texto branco */
+    padding: 2px 4px;
+}
+
+/* Estilo para data e autor */
+.date-author {
+    font-size: 14px;
+    color: #888;
+    margin-top: 10px;
+}
 </style>
