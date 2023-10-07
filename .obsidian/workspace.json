@@ -198,7 +198,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/jujutsu/Energia Amaldiçoada.md",
+                "file": "zettelkasten/jujutsu/Jujutsu.md",
                 "mode": "source",
                 "source": false
               }
@@ -290,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/jujutsu/Energia Amaldiçoada.md",
+                "file": "zettelkasten/jujutsu/Jujutsu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/jujutsu/Energia Amaldiçoada.md",
+                "file": "zettelkasten/jujutsu/Jujutsu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -330,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/jujutsu/Energia Amaldiçoada.md"
+                "file": "zettelkasten/jujutsu/Jujutsu.md"
               }
             }
           }
@@ -354,10 +354,10 @@
   },
   "active": "35c4767752ff5817",
   "lastOpenFiles": [
-    "zettelkasten/jujutsu/Jujutsu.md",
     "index.md",
     "zettelkasten/jujutsu/Energia Amaldiçoada.md",
     "templates/templater/tema-obsidianite.md",
+    "zettelkasten/jujutsu/Jujutsu.md",
     "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
     "zettelkasten/jujutsu/Tecnica Máxima.md",
     "zettelkasten/personagem/Arquetipos Personagem.md",

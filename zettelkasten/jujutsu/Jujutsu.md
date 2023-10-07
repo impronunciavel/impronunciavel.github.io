@@ -100,7 +100,7 @@ A **Feitiçaria Jujutsu** então se ramifica em diversos fundamentos que servem 
 	.HyperMD-header.HyperMD-header-4,
 	.HyperMD-header.HyperMD-header-5,
 	.HyperMD-header.HyperMD-header-6 {
-	  border-bottom: 1px solid;
+	  border-bottom: 0px solid;
 	  border-width: 1px;
 	  border-image-slice: 1;
 	  border-image-source: linear-gradient(to right, var(--text-sub-accent), #100e17, #100e17, #100e17);
