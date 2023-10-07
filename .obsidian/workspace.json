@@ -197,7 +197,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/jujutsu/Tecnicas Inatas.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/jujutsu/Tecnicas Inatas.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +287,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/jujutsu/Tecnicas Inatas.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -310,7 +310,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/jujutsu/Tecnicas Inatas.md"
+                "file": "index.md"
               }
             }
           }
@@ -332,17 +332,21 @@
   },
   "active": "35c4767752ff5817",
   "lastOpenFiles": [
-    "templates/tema-catppuccin.md",
-    "zettelkasten/jujutsu/Tecnicas Inatas.md",
-    "templates/tema-catpuccin-O.md",
     "index.md",
+    "zettelkasten/sistema",
+    "zettelkasten/personagem",
+    "zettelkasten/jujutsu/Reversão.md",
+    "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
+    "zettelkasten/jujutsu/Raio Negro.md",
+    "zettelkasten/jujutsu/Tecnicas Inatas.md",
+    "templates/tema-catppuccin.md",
+    "templates/tema-catpuccin-O.md",
     "templates/tema-obsidianite.md",
     "README.md",
     "templates/obsidianite.css",
     "templates/obsidianite.txt",
     "templates/Novo Documento de Texto.txt",
     "zettelkasten/jujutsu/Barreiras.md",
-    "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
     "zettelkasten/jujutsu/Domínios.md",
     "zettelkasten/jujutsu/Tecnicas Base.md",
     "zettelkasten/jujutsu/Tecnicas Anti-domínio.md",
@@ -359,9 +363,6 @@
     "zettelkasten/jujutsu",
     "templates/Tecnica Base.md",
     "templates/note.md",
-    "zettelkasten/jujutsu/Reversão.md",
-    "Vector space in X.md",
-    "Density Function.md",
     "templates",
     "media",
     "zettelkasten"

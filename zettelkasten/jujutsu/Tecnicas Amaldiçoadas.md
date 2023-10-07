@@ -3,7 +3,6 @@
 # Tecnicas Amaldiçoadas
 
 [Projeção](Projeção)
-[Projeção](#Projeção)
 [[Reversão]]
 [[Extensão]]
 [[Encantamentos]]
@@ -13,3 +12,4 @@
 [Barreiras](Barreiras)
 [[Subtração]]
 [[Pactos]]
+[Raio Negro](Raio%20Negro) 

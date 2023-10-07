@@ -42,5 +42,14 @@
       ],
       "key": "K"
     }
+  ],
+  "backlink:toggle-backlinks-in-document": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "J"
+    }
   ]
 }

@@ -1,4 +1,17 @@
-# Power System!!
+# Jujutsu RPG!!
+
+## Sumário
+1. Jujutsu
+	1. [Os fundamentos do Jujutsu](zettelkasten/jujutsu/Fundamentos%20Jujutsu)
+	2. [Técnicas Amaldiçoadas](zettelkasten/jujutsu/Tecnicas%20Amaldiçoadas)
+	3. [Energia Reversa](zettelkasten/jujutsu/Reversão)
+2. Criação de Personagem
+	1. [Arquétipos de Personagem](zettelkasten/personagem/Arquetipos%20Personagem)
+	2. [Clans](zettelkasten/personagem/Clans)
+	3. [Atributos](zettelkasten/personagem/Atributos)
+	4. [Restrição Celestial](zettelkasten/personagem/Restrição%20Celestial) 
+3. O sistema NDX 
+
 Jujutsu Kaisen RPG system
 [Tecnicas Inatas](zettelkasten/jujutsu/Tecnicas%20Inatas)
 [Tecnicas Base](zettelkasten/jujutsu/Tecnicas%20Base)
@@ -117,5 +130,4 @@ Jujutsu Kaisen RPG system
 	  font-size: 14px;
 	  color: var(--text-faint);
 	  margin-top: 10px;
-	}
-</style>
+	}</style>
