@@ -24,6 +24,7 @@ A **Feitiçaria Jujutsu** então se ramifica em diversos fundamentos que servem 
 ## 8. [Energia Reversa](Energia%20Reversa)
 ## 9. [Espiritos Amaldiçoados](Espiritos%20Amaldiçoados)
 
+
 <style>
 	/* Definição das variáveis do tema "obsidianite" */
 	:root {
@@ -172,6 +173,29 @@ A **Feitiçaria Jujutsu** então se ramifica em diversos fundamentos que servem 
 	  color: var(--text-accent);
 	  opacity: 0.45;
 	}
+	.markdown-body h1 {
+	  padding-bottom:0.3em;
+	  font-size:2em;
+	  /*! border-bottom:1px solid #eaecef */
+	}
+	.markdown-body h2 {
+	  padding-bottom:0.3em;
+	  font-size:1.5em;
+	  /*! border-bottom:1px solid #eaecef; */
+	}
+	.markdown-body h3 {
+	  font-size:1.25em
+	}
+	.markdown-body h4 {
+	  font-size:1em
+	}
+	.markdown-body h5 {
+	  font-size:0.875em
+	}
+	.markdown-body h6 {
+	  font-size:0.85em;
+	  color:#6a737d
+	}
 	
 	/**-------------------**
 	| HR STYLES
@@ -179,7 +203,7 @@ A **Feitiçaria Jujutsu** então se ramifica em diversos fundamentos que servem 
 	
 	/** hr styles -- PREVIEW MODE */
 	.cm-line hr,
-	.markdown-preview-view hr {
+	.markdown-preview-view hr, hr {
 	  margin-block-start: 4em;
 	  margin-block-end: 4em;
 	  border: none;
@@ -189,7 +213,15 @@ A **Feitiçaria Jujutsu** então se ramifica em diversos fundamentos que servem 
 	  border-width: 1px;
 	  border-image-source: linear-gradient(to right, transparent, var(--text-accent), transparent);
 	}
-	
+	.markdown-body hr {
+	  height:.15em;
+	  padding:0;
+	  margin:24px 0;
+	  background-color:#e1e4e8;
+	  border:0;
+	  background-color: #7aa2f7;
+	  background-image: linear-gradient(62deg, #87c2fd 0%, #dcb9fc 100%) !important;
+	}
 	.cm-line hr::after,
 	.markdown-preview-view hr::after {
 	  content: '§';
@@ -302,16 +334,12 @@ A **Feitiçaria Jujutsu** então se ramifica em diversos fundamentos que servem 
 	
 	.internal-link,
 	.external-link {
-	  text-decoration: none !important;
 	  color: var(--text-normal);
-	  position: relative;
-	  z-index: 1;
-	  -webkit-background-clip: text;
-	  -webkit-text-fill-color: transparent;
-	  padding: 0;
-	  color: #7aa2f7;
-	  background-color: #7aa2f7;
-	  background-image: linear-gradient(62deg, #87c2fd 0%, #dcb9fc 100%) !important;
+	  background-position: 0 100%;
+	  background-repeat: repeat-x;
+	  background-size: 5px 5px;
+	  text-decoration: none;
+	  transition: background 350ms ease-in-out;
 	}
 	
 	.cm-s-obsidian span.cm-link:not(.cm-formatting-link) .cm-underline,

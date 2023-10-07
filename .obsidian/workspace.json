@@ -198,7 +198,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
+                "file": "zettelkasten/jujutsu/Energia Amaldiçoada.md",
                 "mode": "source",
                 "source": false
               }
@@ -290,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
+                "file": "zettelkasten/jujutsu/Energia Amaldiçoada.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
+                "file": "zettelkasten/jujutsu/Energia Amaldiçoada.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -330,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md"
+                "file": "zettelkasten/jujutsu/Energia Amaldiçoada.md"
               }
             }
           }
@@ -357,6 +357,7 @@
     "zettelkasten/jujutsu/Jujutsu.md",
     "index.md",
     "templates/templater/tema-obsidianite.md",
+    "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
     "zettelkasten/jujutsu/Tecnica Máxima.md",
     "zettelkasten/personagem/Arquetipos Personagem.md",
     "zettelkasten/jujutsu/Energia Amaldiçoada.md",
@@ -371,7 +372,6 @@
     "zettelkasten/jujutsu/Fundamentos Jujutsu.md",
     "zettelkasten/jujutsu/Barreiras.md",
     "zettelkasten/jujutsu/Domínio Simples.md",
-    "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
     "zettelkasten/jujutsu/Tecnicas Inatas.md",
     "zettelkasten/jujutsu/Shikigami.md",
     "Energia AAmaldiçoada.md",
