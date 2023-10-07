@@ -6,7 +6,7 @@
       {
         "id": "cba88b5f436a53a4",
         "type": "tabs",
-        "dimension": 44.086021505376344,
+        "dimension": 71.86379928315412,
         "children": [
           {
             "id": "a3b03e11c07d732b",
@@ -198,7 +198,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/jujutsu/Fundamentos Jujutsu.md",
+                "file": "zettelkasten/jujutsu/Jujutsu.md",
                 "mode": "source",
                 "source": false
               }
@@ -208,16 +208,20 @@
         "currentTab": 16
       },
       {
-        "id": "7cbe04dd9055aabe",
+        "id": "e267328994ddc920",
         "type": "tabs",
-        "dimension": 55.91397849462365,
+        "dimension": 28.136200716845877,
         "children": [
           {
-            "id": "187263795c76a3aa",
+            "id": "8c98e03568cf3ab8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/jujutsu/Fundamentos Jujutsu.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -286,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/jujutsu/Fundamentos Jujutsu.md",
+                "file": "zettelkasten/jujutsu/Jujutsu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/jujutsu/Fundamentos Jujutsu.md",
+                "file": "zettelkasten/jujutsu/Jujutsu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -326,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/jujutsu/Fundamentos Jujutsu.md"
+                "file": "zettelkasten/jujutsu/Jujutsu.md"
               }
             }
           }
@@ -344,26 +348,37 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "35c4767752ff5817",
   "lastOpenFiles": [
+    "zettelkasten/jujutsu/Shikigami.md",
+    "zettelkasten/jujutsu/Jujutsu.md",
+    "templates/TODO.md",
+    "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
+    "zettelkasten/jujutsu/Energia Amaldiçoada.md",
     "index.md",
-    "zettelkasten/jujutsu/Fundamentos Jujutsu.md",
-    "().md",
     "templates/Tecnica Base.md",
     "templates/Tecnica Inata.md",
+    "zettelkasten/jujutsu/Tecnicas Inatas.md",
+    "zettelkasten/jujutsu/Domínio Simples.md",
+    "Energia AAmaldiçoada.md",
+    "zettelkasten/jujutsu/Fundamentos Jujutsu.md",
+    "templates/templater/furigana.md",
+    "templates/templater/japanese.md",
+    "templates/templater",
     "templates/tema-catppuccin.md",
+    "templates/note.md",
     "templates/tema-catpuccin-O.md",
     "templates/tema-obsidianite.md",
-    "templates/note.md",
+    "templates/link.md",
+    "().md",
     "zettelkasten/sistema",
     "zettelkasten/personagem",
     "zettelkasten/jujutsu/Reversão.md",
-    "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
     "zettelkasten/jujutsu/Raio Negro.md",
-    "zettelkasten/jujutsu/Tecnicas Inatas.md",
     "README.md",
     "templates/obsidianite.css",
     "templates/obsidianite.txt",
@@ -371,15 +386,6 @@
     "zettelkasten/jujutsu/Barreiras.md",
     "zettelkasten/jujutsu/Domínios.md",
     "zettelkasten/jujutsu/Tecnicas Base.md",
-    "zettelkasten/jujutsu/Tecnicas Anti-domínio.md",
-    "zettelkasten/jujutsu/Tecnica Máxima.md",
-    "zettelkasten/jujutsu/Projeção.md",
-    "templates/link.md",
-    "zettelkasten/jujutsu/Tecnicas-Inatas.md",
-    "zettelkasten/Tecnicas.md",
-    "Tecnicas.md",
-    "zettelkasten/jujutsu/Domínio Simples.md",
-    "zettelkasten/jujutsu/Expansão de Domínio.md",
     "zettelkasten/jujutsu",
     "templates",
     "media",

@@ -1,8 +1,10 @@
-### [Voltar Ao Index](../../index)
+---
+tags:
+  - TecnicaInata
+---
+### [Voltar Ao Sumário](../../index) [Voltar A Raiz]()  [Pagina Anterior]()
 --- 
-### Categoria: #TecnicaInata
-
-# Tecnica Inata
+# {{title}}
 
 <style>
 	/* Definição das variáveis do tema "obsidianite" */

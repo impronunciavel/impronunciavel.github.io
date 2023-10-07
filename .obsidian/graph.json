@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 6401535
       }
+    },
+    {
+      "query": "tag:#Fundamentos  ",
+      "color": {
+        "a": 1,
+        "rgb": 15783997
+      }
     }
   ],
   "collapse-display": true,
@@ -39,6 +46,6 @@
   "repelStrength": 9.16666666666667,
   "linkStrength": 0.760416666666667,
   "linkDistance": 319,
-  "scale": 0.7132754626224435,
+  "scale": 0.7132754626224438,
   "close": true
 }

@@ -1,7 +1,9 @@
-### [Voltar Ao Index](../../index) [Pagina Anterior]()
+---
+tags:
+  - TecnicaBase
+---
+### [Voltar Ao Sumário](../../index) [Voltar A Raiz]()  [Pagina Anterior]()
 --- 
-### Categoria: #TecnicaBase
-
 # {{title}}
 
 <style>

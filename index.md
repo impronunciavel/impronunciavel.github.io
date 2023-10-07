@@ -1,8 +1,8 @@
 # Jujutsu RPG!!
 
 ## Sumário
-1. [Jujutsu]
-	1. [Os fundamentos do Jujutsu](zettelkasten/jujutsu/Fundamentos%20Jujutsu)
+1. [Jujutsu](zettelkasten/jujutsu/Jujutsu)
+	1. [Energia Amaldiçoada](zettelkasten/jujutsu/Energia%20Amaldiçoada)
 	2. [Técnicas Amaldiçoadas](zettelkasten/jujutsu/Tecnicas%20Amaldiçoadas)
 	3. [Energia Reversa](zettelkasten/jujutsu/Reversão)
 2. [Criação de Personagem]
