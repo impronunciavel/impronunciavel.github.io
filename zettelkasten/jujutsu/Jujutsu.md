@@ -4,13 +4,13 @@ tags:
 ---
 ### [Voltar Ao Sumário](../../index) 
 --- 
-# Jujutsu 
+# **Jujutsu** 
 
-**Jujutsu (<ruby>呪<rt> じゅ</rt> 術 <rt>じゅつ</rt></ruby> _Jujutsu_)**, também conhecido como **Feitiçaria Jujutsu**, é nome que se dá a toda família de habilidades sobrenaturais envolvidas com bruxaria e feitiçaria no mundo, em que ambos **Feiticeiros** (<ruby></ruby> _Jutsushi_) e **Espíritos Amaldiçoados** (<ruby></ruby> _Jurei_) podem acessar através da manipulação da **[Energia Amaldiçoada](Energia%20Amaldiçoada)**. 
+**Jujutsu (<ruby>呪<rt> じゅ</rt> 術 <rt>じゅつ</rt></ruby> _Jujutsu_)**, também conhecido como **Feitiçaria Jujutsu**, é nome que se dá a toda família de habilidades sobrenaturais envolvidas com bruxaria e feitiçaria no mundo, em que ambos **Feiticeiros** (<ruby></ruby> _Jutsushi_) e **Espíritos Amaldiçoados** (<ruby></ruby> _Jurei_) podem acessar através da manipulação da [Energia Amaldiçoada](Energia%20Amaldiçoada). 
 
 **Jujutsu** é o pináculo do sobrenatural no mundo, uma arte secreta e extremamente poderosa, porém complexa desenvolvida para o entendimento da misteriosa **energia negativa** originada das emoções dos seres humanos. É necessário compreender a fundo essa arte antes que possa cair de cabeça na criação de seu personagem.
 
-# [Fundamentos do Jujutsu](Fundamentos%20Jujutsu)
+# **Fundamentos do Jujutsu**
 
 A **Feitiçaria Jujutsu** então se ramifica em diversos fundamentos que servem de base para a construção de toda a sobrenaturalidade do mundo, esses fundamentos são:
 ## 1. [Energia Amaldiçoada](Energia%20Amaldiçoada)
@@ -23,7 +23,6 @@ A **Feitiçaria Jujutsu** então se ramifica em diversos fundamentos que servem 
 
 ## 8. [Energia Reversa](Energia%20Reversa)
 ## 9. [Espiritos Amaldiçoados](Espiritos%20Amaldiçoados)
-
 
 <style>
 	/* Definição das variáveis do tema "obsidianite" */
@@ -83,11 +82,194 @@ A **Feitiçaria Jujutsu** então se ramifica em diversos fundamentos que servem 
 	  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 	}
 	
-	/* Estilo dos títulos */
-	h1, h2, h3, h4, h5, h6 {
+	/**-------------------**
+	| HEADING STYLES
+	**--------------------**/
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+	  font-family: var(--default-font);
+	  font-weight: 600;
+	}
+	
+	.HyperMD-header.HyperMD-header-2,
+	.HyperMD-header.HyperMD-header-3,
+	.HyperMD-header.HyperMD-header-4,
+	.HyperMD-header.HyperMD-header-5,
+	.HyperMD-header.HyperMD-header-6 {
+	  border-bottom: 1px solid;
+	  border-width: 1px;
+	  border-image-slice: 1;
+	  border-image-source: linear-gradient(to right, var(--text-sub-accent), #100e17, #100e17, #100e17);
+	}
+	
+	.HyperMD-header {
+	  padding: 20px;
+	}
+	
+	.markdown-preview-section h1,
+	.cm-header-1 {
+	  font-size: 34px;
 	  color: var(--text-title-h1);
 	}
 	
+	.markdown-preview-section h2,
+	.cm-header-2 {
+	  font-size: 26px;
+	  color: var(--text-title-h2);
+	}
+	
+	.markdown-preview-section h3,
+	.cm-header-3 {
+	  font-size: 22px;
+	  color: var(--text-title-h3);
+	}
+	
+	.markdown-preview-section h4,
+	.cm-header-4 {
+	  font-size: 18px;
+	  color: var(--text-title-h4);
+	}
+	
+	.markdown-preview-section h5,
+	.cm-header-5 {
+	  font-size: 18px;
+	  color: var(--text-title-h5);
+	}
+	
+	.markdown-preview-section h6,
+	.cm-header-6 {
+	  font-size: 18px;
+	  color: var(--text-title-h5);
+	}
+	
+	/** headings */
+	.markdown-preview-view h2,
+	.markdown-preview-view h3,
+	.markdown-preview-view h4,
+	.markdown-preview-view h5,
+	.markdown-preview-view h6 {
+	  /* padding-top: 1.25rem; */
+	  margin: 45px 0 20px 0;
+	  position: relative;
+	  padding-bottom: 10px;
+	  border-bottom: 1px solid;
+	  border-width: 35%;
+	  border-image-slice: 1;
+	  border-image-source: linear-gradient(to right, var(--text-sub-accent), #100e17, #100e17, #100e17);
+	}
+	
+	.view-header-icon {
+	  color: var(--text-accent);
+	}
+	
+	/** Adding different # colors **/
+	
+	.cm-formatting.cm-formatting-header.cm-header {
+	  color: var(--text-accent);
+	  opacity: 0.45;
+	}
+	
+	/**-------------------**
+	| HR STYLES
+	**--------------------**/
+	
+	/** hr styles -- PREVIEW MODE */
+	.cm-line hr,
+	.markdown-preview-view hr {
+	  margin-block-start: 4em;
+	  margin-block-end: 4em;
+	  border: none;
+	  height: 0;
+	  border-bottom: 1px solid;
+	  border-image-slice: 1;
+	  border-width: 1px;
+	  border-image-source: linear-gradient(to right, transparent, var(--text-accent), transparent);
+	}
+	
+	.cm-line hr::after,
+	.markdown-preview-view hr::after {
+	  content: '§';
+	  display: inline-block;
+	  position: absolute;
+	  left: 50%;
+	  transform: translate(-50%, -50%) rotate(60deg);
+	  transform-origin: 50% 50%;
+	  padding: 0.5rem;
+	  color: var(--text-sub-accent);
+	  background-color: var(--background-primary);
+	}
+	/**-------------------**
+	| STRONG/BOLD STYLES
+	**--------------------**/
+	
+	.cm-strong,
+	strong {
+	  -webkit-background-clip: text;
+	  -webkit-text-fill-color: transparent;
+	  padding: 0;
+	  color: #7aa2f7;
+	  background-color: #7aa2f7;
+	  background-image: linear-gradient(62deg, #87c2fd 0%, #dcb9fc 100%) !important;
+	}
+	
+	strong .math.math-inline .MathJax {
+	  position: inherit !important;
+	}
+	
+	.cm-strong .cm-selection,
+	strong::selection {
+	  -webkit-text-fill-color: var(--text-faint);
+	}
+	
+	/**-------------------**
+	| <KBD> STYLING
+	**--------------------**/
+	
+	.cm-strong kbd,
+	strong kbd {
+	  -webkit-text-fill-color: initial;
+	}
+	
+	/**-------------------**
+	| ITALIC STYLES
+	**--------------------**/
+	
+	.cm-em,
+	em {
+	  color: #bb9af7 !important;
+	  font-family: OperatorMonoSSmLig-Book, Rubik, var(--default-font) !important;
+	}
+	
+	.cm-em.cm-formatting-em {
+	  display: inline-flex;
+	  width: 0.45rem;
+	  font-size: 0.6rem;
+	  vertical-align: text-top;
+	}
+	
+	/**-------------------**
+	| LISTING STYLES (ul, li, ol)
+	**--------------------**/
+	
+	.cm-s-obsidian span.cm-formatting-list {
+	  color: var(--text-accent);
+	}
+	
+	.markdown-source-view.mod-cm6 .cm-indent::before {
+	  border-width: 2px;
+	  border-color: var(--text-accent);
+	  margin-left: -1px;
+	  opacity: 0.35;
+	  transition: opacity 500ms linear ease-in-out;
+	}
+	
+	.markdown-source-view.mod-cm6 .cm-active-indent::before {
+	  opacity: 0.8;
+	}
 	/* Estilo dos links */
 	
 	.cm-s-obsidian span.cm-link:not(.cm-formatting-link) .cm-underline,
@@ -120,12 +302,16 @@ A **Feitiçaria Jujutsu** então se ramifica em diversos fundamentos que servem 
 	
 	.internal-link,
 	.external-link {
+	  text-decoration: none !important;
 	  color: var(--text-normal);
-	  background-position: 0 100%;
-	  background-repeat: repeat-x;
-	  background-size: 5px 5px;
-	  text-decoration: none;
-	  transition: background 350ms ease-in-out;
+	  position: relative;
+	  z-index: 1;
+	  -webkit-background-clip: text;
+	  -webkit-text-fill-color: transparent;
+	  padding: 0;
+	  color: #7aa2f7;
+	  background-color: #7aa2f7;
+	  background-image: linear-gradient(62deg, #87c2fd 0%, #dcb9fc 100%) !important;
 	}
 	
 	.cm-s-obsidian span.cm-link:not(.cm-formatting-link) .cm-underline,
@@ -169,6 +355,12 @@ A **Feitiçaria Jujutsu** então se ramifica em diversos fundamentos que servem 
 	  color: var(--text-normal);
 	  position: relative;
 	  z-index: 1;
+	  -webkit-background-clip: text;
+	  -webkit-text-fill-color: transparent;
+	  padding: 0;
+	  color: #7aa2f7;
+	  background-color: #7aa2f7;
+	  background-image: linear-gradient(62deg, #87c2fd 0%, #dcb9fc 100%) !important;
 	}
 	
 	.cm-url {

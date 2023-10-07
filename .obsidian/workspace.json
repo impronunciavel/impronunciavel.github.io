@@ -174,7 +174,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/tema-obsidianite.md",
+                "file": "templates/templater/tema-obsidianite.md",
                 "mode": "source",
                 "source": false
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
                 "mode": "source",
                 "source": false
               }
@@ -216,8 +216,12 @@
             "id": "8c98e03568cf3ab8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "templates/templater/tema-obsidianite.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -286,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -326,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md"
               }
             }
           }
@@ -350,38 +354,38 @@
   },
   "active": "35c4767752ff5817",
   "lastOpenFiles": [
-    "templates/tema-obsidianite.md",
-    "zettelkasten/jujutsu/Barreiras.md",
-    "zettelkasten/jujutsu/Domínio Simples.md",
-    "zettelkasten/jujutsu/Energia Amaldiçoada.md",
-    "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
     "zettelkasten/jujutsu/Jujutsu.md",
     "index.md",
-    "zettelkasten/jujutsu/Tecnicas Inatas.md",
-    "zettelkasten/jujutsu/Fundamentos Jujutsu.md",
-    "zettelkasten/jujutsu/Shikigami.md",
+    "templates/templater/tema-obsidianite.md",
+    "zettelkasten/jujutsu/Tecnica Máxima.md",
+    "zettelkasten/personagem/Arquetipos Personagem.md",
+    "zettelkasten/jujutsu/Energia Amaldiçoada.md",
+    "zettelkasten/jujutsu/Tecnicas Base.md",
+    "zettelkasten/jujutsu/Tecnicas Anti-domínio.md",
     "templates/TODO.md",
-    "templates/Tecnica Base.md",
     "templates/Tecnica Inata.md",
+    "templates/Tecnica Base.md",
+    "templates/note.md",
+    "templates/tema-catppuccin.md",
+    "templates/tema-catpuccin-O.md",
+    "zettelkasten/jujutsu/Fundamentos Jujutsu.md",
+    "zettelkasten/jujutsu/Barreiras.md",
+    "zettelkasten/jujutsu/Domínio Simples.md",
+    "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
+    "zettelkasten/jujutsu/Tecnicas Inatas.md",
+    "zettelkasten/jujutsu/Shikigami.md",
     "Energia AAmaldiçoada.md",
     "templates/templater/furigana.md",
     "templates/templater/japanese.md",
     "templates/templater",
-    "templates/tema-catppuccin.md",
-    "templates/note.md",
-    "templates/tema-catpuccin-O.md",
     "templates/link.md",
     "().md",
     "zettelkasten/sistema",
     "zettelkasten/personagem",
     "zettelkasten/jujutsu/Reversão.md",
-    "zettelkasten/jujutsu/Raio Negro.md",
-    "README.md",
     "templates/obsidianite.css",
     "templates/obsidianite.txt",
     "templates/Novo Documento de Texto.txt",
-    "zettelkasten/jujutsu/Domínios.md",
-    "zettelkasten/jujutsu/Tecnicas Base.md",
     "zettelkasten/jujutsu",
     "templates",
     "media",

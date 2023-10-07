@@ -23,7 +23,8 @@
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
     "templates/templater/japanese.md",
-    "templates/templater/furigana.md"
+    "templates/templater/furigana.md",
+    "templates/templater/tema-obsidianite.md"
   ],
   "startup_templates": [
     ""

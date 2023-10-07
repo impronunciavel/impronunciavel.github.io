@@ -80,9 +80,125 @@ Jujutsu Kaisen RPG system
 	  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 	}
 	
-	/* Estilo dos títulos */
-	h1, h2, h3, h4, h5, h6 {
+	/**-------------------**
+	| HEADING STYLES
+	**--------------------**/
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+	  font-family: var(--default-font);
+	  font-weight: 600;
+	}
+	
+	.HyperMD-header.HyperMD-header-2,
+	.HyperMD-header.HyperMD-header-3,
+	.HyperMD-header.HyperMD-header-4,
+	.HyperMD-header.HyperMD-header-5,
+	.HyperMD-header.HyperMD-header-6 {
+	  border-bottom: 1px solid;
+	  border-width: 1px;
+	  border-image-slice: 1;
+	  border-image-source: linear-gradient(to right, var(--text-sub-accent), #100e17, #100e17, #100e17);
+	}
+	
+	.HyperMD-header {
+	  padding: 20px;
+	}
+	
+	.markdown-preview-section h1,
+	.cm-header-1 {
+	  font-size: 34px;
 	  color: var(--text-title-h1);
+	}
+	
+	.markdown-preview-section h2,
+	.cm-header-2 {
+	  font-size: 26px;
+	  color: var(--text-title-h2);
+	}
+	
+	.markdown-preview-section h3,
+	.cm-header-3 {
+	  font-size: 22px;
+	  color: var(--text-title-h3);
+	}
+	
+	.markdown-preview-section h4,
+	.cm-header-4 {
+	  font-size: 18px;
+	  color: var(--text-title-h4);
+	}
+	
+	.markdown-preview-section h5,
+	.cm-header-5 {
+	  font-size: 18px;
+	  color: var(--text-title-h5);
+	}
+	
+	.markdown-preview-section h6,
+	.cm-header-6 {
+	  font-size: 18px;
+	  color: var(--text-title-h5);
+	}
+	
+	/** headings */
+	.markdown-preview-view h2,
+	.markdown-preview-view h3,
+	.markdown-preview-view h4,
+	.markdown-preview-view h5,
+	.markdown-preview-view h6 {
+	  /* padding-top: 1.25rem; */
+	  margin: 45px 0 20px 0;
+	  position: relative;
+	  padding-bottom: 10px;
+	  border-bottom: 1px solid;
+	  border-width: 35%;
+	  border-image-slice: 1;
+	  border-image-source: linear-gradient(to right, var(--text-sub-accent), #100e17, #100e17, #100e17);
+	}
+	
+	.view-header-icon {
+	  color: var(--text-accent);
+	}
+	
+	/** Adding different # colors **/
+	
+	.cm-formatting.cm-formatting-header.cm-header {
+	  color: var(--text-accent);
+	  opacity: 0.45;
+	}
+	
+	/**-------------------**
+	| HR STYLES
+	**--------------------**/
+	
+	/** hr styles -- PREVIEW MODE */
+	.cm-line hr,
+	.markdown-preview-view hr {
+	  margin-block-start: 4em;
+	  margin-block-end: 4em;
+	  border: none;
+	  height: 0;
+	  border-bottom: 1px solid;
+	  border-image-slice: 1;
+	  border-width: 1px;
+	  border-image-source: linear-gradient(to right, transparent, var(--text-accent), transparent);
+	}
+	
+	.cm-line hr::after,
+	.markdown-preview-view hr::after {
+	  content: '§';
+	  display: inline-block;
+	  position: absolute;
+	  left: 50%;
+	  transform: translate(-50%, -50%) rotate(60deg);
+	  transform-origin: 50% 50%;
+	  padding: 0.5rem;
+	  color: var(--text-sub-accent);
+	  background-color: var(--background-primary);
 	}
 	/**-------------------**
 	| STRONG/BOLD STYLES
@@ -233,6 +349,12 @@ Jujutsu Kaisen RPG system
 	  color: var(--text-normal);
 	  position: relative;
 	  z-index: 1;
+	  -webkit-background-clip: text;
+	  -webkit-text-fill-color: transparent;
+	  padding: 0;
+	  color: #7aa2f7;
+	  background-color: #7aa2f7;
+	  background-image: linear-gradient(62deg, #87c2fd 0%, #dcb9fc 100%) !important;
 	}
 	
 	.cm-url {
