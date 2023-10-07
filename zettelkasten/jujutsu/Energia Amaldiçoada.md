@@ -10,6 +10,7 @@ tags:
 A **Energia Amaldiçoada (<ruby>呪 <rt>じゅ</rt> 力 <rt>りょく</rt></ruby> _Juryoku_)** é o poder, a chama, a energia que serve de combustível de toda a paranormalidade  
 
 
+
 <style>
 	/* Definição das variáveis do tema "obsidianite" */
 	:root {
@@ -161,12 +162,12 @@ A **Energia Amaldiçoada (<ruby>呪 <rt>じゅ</rt> 力 <rt>りょく</rt></ruby
 	.markdown-body h1 {
 	  padding-bottom:0.3em;
 	  font-size:2em;
-	  /*! border-bottom:1px solid #eaecef */
+	  border-bottom:0px solid #eaecef 
 	}
 	.markdown-body h2 {
 	  padding-bottom:0.3em;
 	  font-size:1.5em;
-	  /*! border-bottom:1px solid #eaecef; */
+	  border-bottom:0px solid #eaecef 
 	}
 	.markdown-body h3 {
 	  font-size:1.25em
