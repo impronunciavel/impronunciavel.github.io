@@ -61,7 +61,74 @@
 	h1, h2, h3, h4, h5, h6 {
 	  color: var(--text-title-h1);
 	}
+	/**-------------------**
+	| STRONG/BOLD STYLES
+	**--------------------**/
 	
+	.cm-strong,
+	strong {
+	  -webkit-background-clip: text;
+	  -webkit-text-fill-color: transparent;
+	  padding: 0;
+	  color: #7aa2f7;
+	  background-color: #7aa2f7;
+	  background-image: linear-gradient(62deg, #87c2fd 0%, #dcb9fc 100%) !important;
+	}
+	
+	strong .math.math-inline .MathJax {
+	  position: inherit !important;
+	}
+	
+	.cm-strong .cm-selection,
+	strong::selection {
+	  -webkit-text-fill-color: var(--text-faint);
+	}
+	
+	/**-------------------**
+	| <KBD> STYLING
+	**--------------------**/
+	
+	.cm-strong kbd,
+	strong kbd {
+	  -webkit-text-fill-color: initial;
+	}
+	
+	/**-------------------**
+	| ITALIC STYLES
+	**--------------------**/
+	
+	.cm-em,
+	em {
+	  color: #bb9af7 !important;
+	  font-family: OperatorMonoSSmLig-Book, Rubik, var(--default-font) !important;
+	}
+	
+	.cm-em.cm-formatting-em {
+	  display: inline-flex;
+	  width: 0.45rem;
+	  font-size: 0.6rem;
+	  vertical-align: text-top;
+	}
+	
+	/**-------------------**
+	| LISTING STYLES (ul, li, ol)
+	**--------------------**/
+	
+	.cm-s-obsidian span.cm-formatting-list {
+	  color: var(--text-accent);
+	}
+	
+	.markdown-source-view.mod-cm6 .cm-indent::before {
+	  border-width: 2px;
+	  border-color: var(--text-accent);
+	  margin-left: -1px;
+	  opacity: 0.35;
+	  transition: opacity 500ms linear ease-in-out;
+	}
+	
+	.markdown-source-view.mod-cm6 .cm-active-indent::before {
+	  opacity: 0.8;
+	}
 	/* Estilo dos links */
 	
 	.cm-s-obsidian span.cm-link:not(.cm-formatting-link) .cm-underline,

@@ -198,7 +198,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -286,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,7 +303,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -326,7 +326,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md"
+                "file": "index.md"
               }
             }
           }
@@ -350,18 +350,19 @@
   },
   "active": "35c4767752ff5817",
   "lastOpenFiles": [
-    "zettelkasten/jujutsu/Jujutsu.md",
+    "templates/tema-obsidianite.md",
+    "zettelkasten/jujutsu/Barreiras.md",
+    "zettelkasten/jujutsu/Domínio Simples.md",
     "zettelkasten/jujutsu/Energia Amaldiçoada.md",
+    "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
+    "zettelkasten/jujutsu/Jujutsu.md",
     "index.md",
     "zettelkasten/jujutsu/Tecnicas Inatas.md",
-    "templates/tema-obsidianite.md",
     "zettelkasten/jujutsu/Fundamentos Jujutsu.md",
     "zettelkasten/jujutsu/Shikigami.md",
     "templates/TODO.md",
-    "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
     "templates/Tecnica Base.md",
     "templates/Tecnica Inata.md",
-    "zettelkasten/jujutsu/Domínio Simples.md",
     "Energia AAmaldiçoada.md",
     "templates/templater/furigana.md",
     "templates/templater/japanese.md",
@@ -379,7 +380,6 @@
     "templates/obsidianite.css",
     "templates/obsidianite.txt",
     "templates/Novo Documento de Texto.txt",
-    "zettelkasten/jujutsu/Barreiras.md",
     "zettelkasten/jujutsu/Domínios.md",
     "zettelkasten/jujutsu/Tecnicas Base.md",
     "zettelkasten/jujutsu",
