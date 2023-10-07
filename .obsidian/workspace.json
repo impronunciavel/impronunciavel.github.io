@@ -6,7 +6,7 @@
       {
         "id": "cba88b5f436a53a4",
         "type": "tabs",
-        "dimension": 71.86379928315412,
+        "dimension": 64.42652329749103,
         "children": [
           {
             "id": "a3b03e11c07d732b",
@@ -198,7 +198,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/jujutsu/Jujutsu.md",
+                "file": "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
                 "mode": "source",
                 "source": false
               }
@@ -210,18 +210,14 @@
       {
         "id": "e267328994ddc920",
         "type": "tabs",
-        "dimension": 28.136200716845877,
+        "dimension": 35.57347670250896,
         "children": [
           {
             "id": "8c98e03568cf3ab8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/jujutsu/Fundamentos Jujutsu.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -290,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/jujutsu/Jujutsu.md",
+                "file": "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +303,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/jujutsu/Jujutsu.md",
+                "file": "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -330,7 +326,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/jujutsu/Jujutsu.md"
+                "file": "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md"
               }
             }
           }
@@ -354,25 +350,25 @@
   },
   "active": "35c4767752ff5817",
   "lastOpenFiles": [
-    "zettelkasten/jujutsu/Shikigami.md",
     "zettelkasten/jujutsu/Jujutsu.md",
-    "templates/TODO.md",
-    "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
     "zettelkasten/jujutsu/Energia Amaldiçoada.md",
     "index.md",
+    "zettelkasten/jujutsu/Tecnicas Inatas.md",
+    "templates/tema-obsidianite.md",
+    "zettelkasten/jujutsu/Fundamentos Jujutsu.md",
+    "zettelkasten/jujutsu/Shikigami.md",
+    "templates/TODO.md",
+    "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
     "templates/Tecnica Base.md",
     "templates/Tecnica Inata.md",
-    "zettelkasten/jujutsu/Tecnicas Inatas.md",
     "zettelkasten/jujutsu/Domínio Simples.md",
     "Energia AAmaldiçoada.md",
-    "zettelkasten/jujutsu/Fundamentos Jujutsu.md",
     "templates/templater/furigana.md",
     "templates/templater/japanese.md",
     "templates/templater",
     "templates/tema-catppuccin.md",
     "templates/note.md",
     "templates/tema-catpuccin-O.md",
-    "templates/tema-obsidianite.md",
     "templates/link.md",
     "().md",
     "zettelkasten/sistema",

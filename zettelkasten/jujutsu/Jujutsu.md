@@ -4,9 +4,9 @@ tags:
 ---
 ### [Voltar Ao Sumário](../../index) 
 --- 
-# Jujutsu
+# Jujutsu 
 
-**Jujutsu** (<ruby>呪<rt> じゅ</rt> 術 <rt>じゅつ</rt></ruby> _Juryoku_), também conhecido como **Feitiçaria Jujutsu**, é nome que se dá a toda família de habilidades sobrenaturais envolvidas com bruxaria e feitiçaria no mundo, em que ambos **Feiticeiros** e **Espíritos Amaldiçoados** podem acessar através da manipulação da **[Energia Amaldiçoada](Energia%20Amaldiçoada)**. 
+**Jujutsu (<ruby>呪<rt> じゅ</rt> 術 <rt>じゅつ</rt></ruby> _Jujutsu_)**, também conhecido como **Feitiçaria Jujutsu**, é nome que se dá a toda família de habilidades sobrenaturais envolvidas com bruxaria e feitiçaria no mundo, em que ambos **Feiticeiros** (<ruby></ruby> _Jutsushi_) e **Espíritos Amaldiçoados** (<ruby></ruby> _Jurei_) podem acessar através da manipulação da **[Energia Amaldiçoada](Energia%20Amaldiçoada)**. 
 
 **Jujutsu** é o pináculo do sobrenatural no mundo, uma arte secreta e extremamente poderosa, porém complexa desenvolvida para o entendimento da misteriosa **energia negativa** originada das emoções dos seres humanos. É necessário compreender a fundo essa arte antes que possa cair de cabeça na criação de seu personagem.
 
@@ -22,9 +22,9 @@ A **Feitiçaria Jujutsu** então se ramifica em diversos fundamentos que servem 
 ## 7. [Restrições](Restrições)
 
 ## 8. [Energia Reversa](Energia%20Reversa)
+## 9. [Espiritos Amaldiçoados](Espiritos%20Amaldiçoados)
 
 
-<rt></rt>
 <style>
 	/* Definição das variáveis do tema "obsidianite" */
 	:root {
@@ -89,16 +89,160 @@ A **Feitiçaria Jujutsu** então se ramifica em diversos fundamentos que servem 
 	}
 	
 	/* Estilo dos links */
-	a {
-	  color: var(--text-a);
+	
+	.cm-s-obsidian span.cm-link:not(.cm-formatting-link) .cm-underline,
+	.cm-s-obsidian span.cm-hmd-internal-link .cm-underline {
+	  color: var(--text-normal);
+	  -webkit-text-fill-color: var(--text-normal);
+	  background-position: 0 100%;
+	  background-repeat: repeat-x;
+	  background-size: 5px 5px;
 	  text-decoration: none;
-	  transition: color 0.3s;
 	}
 	
-	a:hover {
-	  color: var(--text-a-hover);
+	cm-s-obsidian span.cm-link:not(.cm-formatting-link) .cm-underline {
+	  background-image: linear-gradient(
+	    to bottom,
+	    var(--bg-sub-accent-55) 0%,
+	    var(--bg-sub-accent-55) 100%
+	  );
 	}
 	
+	.cm-s-obsidian span.cm-formatting-link {
+	  color: var(--text-faint) !important;
+	  opacity: 0.25;
+	}
+	
+	/** preview mode **/
+	.external-link {
+	  padding: 0;
+	}
+	
+	.internal-link,
+	.external-link {
+	  color: var(--text-normal);
+	  background-position: 0 100%;
+	  background-repeat: repeat-x;
+	  background-size: 5px 5px;
+	  text-decoration: none;
+	  transition: background 350ms ease-in-out;
+	}
+	
+	.cm-s-obsidian span.cm-link:not(.cm-formatting-link) .cm-underline,
+	.external-link {
+	  background-image: linear-gradient(
+	    to bottom,
+	    var(--bg-sub-accent-55) 0%,
+	    var(--bg-sub-accent-55) 100%
+	  );
+	  transition: background 350ms ease-in-out;
+	}
+	
+	.cm-s-obsidian span.cm-hmd-internal-link .cm-underline,
+	.internal-link {
+	  background-image: linear-gradient(to bottom, var(--bg-accent-55) 0%, var(--bg-accent-55) 100%);
+	  transition: background 350ms ease-in-out;
+	}
+	
+	.internal-link:hover,
+	.cm-s-obsidian span.cm-hmd-internal-link .cm-underline:hover {
+	  -webkit-text-fill-color: #fff;
+	  color: #fff;
+	  background-size: 4px 50px;
+	  text-decoration-line: none !important;
+	}
+	
+	.cm-s-obsidian span.cm-link:not(.cm-formatting-link) .cm-underline:hover,
+	.external-link:hover {
+	  -webkit-text-fill-color: #fff;
+	  color: #fff;
+	  background-size: 4px 50px;
+	  text-decoration-line: none !important;
+	}
+	
+	/* link */
+	a,
+	.internal-link,
+	.cm-hmd-internal-link,
+	.cm-link {
+	  text-decoration: none !important;
+	  color: var(--text-normal);
+	  position: relative;
+	  z-index: 1;
+	}
+	
+	.cm-url {
+	  color: var(--text-faint) !important;
+	  opacity: 0.4;
+	  font-weight: normal;
+	}
+	
+	.cm-formatting-image {
+	  color: var(--text-accent) !important;
+	  opacity: 0.7;
+	}
+	
+	/* link hover color */
+	a:hover,
+	.internal-link:hover {
+	  text-decoration: none !important;
+	  color: var(--text-accent);
+	}
+	
+	/**-------------------**
+	| TAG STYLING
+	**--------------------**/
+	
+	.cm-s-obsidian span.cm-hashtag {
+	  position: relative;
+	  color: var(--text-accent);
+	  opacity: 1;
+	  font-family: var(--tag-font-family);
+	  font-style: italic;
+	  text-decoration: none;
+	  font-size: 0.86rem;
+	  font-weight: 500;
+	}
+	
+	.cm-s-obsidian span.cm-hashtag:hover {
+	  text-decoration-line: underline;
+	  text-decoration-color: var(--text-accent);
+	}
+	
+	.cm-s-obsidian span.cm-formatting-hashtag {
+	  color: var(--text-faint);
+	}
+	
+	/** tags */
+	a.tag {
+	  background-color: var(--tag-background);
+	  color: var(--text-accent);
+	  white-space: nowrap;
+	  border-radius: var(--tag-radius);
+	  padding: var(--tag-padding-y) var(--tag-padding-x);
+	  font-family: var(--tag-font-family);
+	  text-decoration: none;
+	  font-style: italic;
+	  font-size: 0.86rem;
+	  font-weight: 500;
+	}
+	
+	a.tag:hover {
+	  border-color: var(--text-accent);
+	  opacity: 1;
+	  background-color: var(--tag-background) !important;
+	  text-decoration: underline !important;
+	  text-decoration-color: var(--text-accent);
+	}
+	
+	h1 a.tag,
+	h2 a.tag,
+	h3 a.tag,
+	h4 a.tag,
+	h5 a.tag,
+	h6 a.tag {
+	  font-size: inherit !important;
+	}
 	/* Estilo das citações */
 	blockquote {
 	  background-color: var(--bg-sub-accent-55);

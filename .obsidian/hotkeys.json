@@ -60,5 +60,37 @@
       ],
       "key": "I"
     }
+  ],
+  "templater-obsidian:templates/japanese.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "J"
+    }
+  ],
+  "templater-obsidian:templates/furigana.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
+    }
+  ],
+  "templater-obsidian:templates/templater/japanese.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "J"
+    }
+  ],
+  "templater-obsidian:templates/templater/furigana.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
+    }
   ]
 }

@@ -22,8 +22,8 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "templates/japanese.md",
-    "templates/furigana.md"
+    "templates/templater/japanese.md",
+    "templates/templater/furigana.md"
   ],
   "startup_templates": [
     ""
