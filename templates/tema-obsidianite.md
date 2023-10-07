@@ -112,5 +112,4 @@
 	  font-size: 14px;
 	  color: var(--text-faint);
 	  margin-top: 10px;
-	}
-</style>
+	}</style>

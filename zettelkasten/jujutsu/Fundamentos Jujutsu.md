@@ -1,8 +1,10 @@
-### [Voltar Ao Index](../../index) [Pagina Anterior]()
+---
+tags:
+  - Fundamentos
+---
+### [Voltar Ao Index](../../index) 
 --- 
-### Categoria: #TecnicaBase
-
-# {{title}}
+# Fundamentos Jujutsu
 
 <style>
 	/* Definição das variáveis do tema "obsidianite" */

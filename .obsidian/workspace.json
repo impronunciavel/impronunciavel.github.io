@@ -6,6 +6,7 @@
       {
         "id": "cba88b5f436a53a4",
         "type": "tabs",
+        "dimension": 44.086021505376344,
         "children": [
           {
             "id": "a3b03e11c07d732b",
@@ -197,7 +198,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "zettelkasten/jujutsu/Fundamentos Jujutsu.md",
                 "mode": "source",
                 "source": false
               }
@@ -205,6 +206,21 @@
           }
         ],
         "currentTab": 16
+      },
+      {
+        "id": "7cbe04dd9055aabe",
+        "type": "tabs",
+        "dimension": 55.91397849462365,
+        "children": [
+          {
+            "id": "187263795c76a3aa",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,7 +270,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "5adb29ccdeec2aa8",
@@ -270,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "zettelkasten/jujutsu/Fundamentos Jujutsu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +303,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "zettelkasten/jujutsu/Fundamentos Jujutsu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -310,7 +326,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "zettelkasten/jujutsu/Fundamentos Jujutsu.md"
               }
             }
           }
@@ -318,7 +334,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -333,15 +350,20 @@
   "active": "35c4767752ff5817",
   "lastOpenFiles": [
     "index.md",
+    "zettelkasten/jujutsu/Fundamentos Jujutsu.md",
+    "().md",
+    "templates/Tecnica Base.md",
+    "templates/Tecnica Inata.md",
+    "templates/tema-catppuccin.md",
+    "templates/tema-catpuccin-O.md",
+    "templates/tema-obsidianite.md",
+    "templates/note.md",
     "zettelkasten/sistema",
     "zettelkasten/personagem",
     "zettelkasten/jujutsu/Reversão.md",
     "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
     "zettelkasten/jujutsu/Raio Negro.md",
     "zettelkasten/jujutsu/Tecnicas Inatas.md",
-    "templates/tema-catppuccin.md",
-    "templates/tema-catpuccin-O.md",
-    "templates/tema-obsidianite.md",
     "README.md",
     "templates/obsidianite.css",
     "templates/obsidianite.txt",
@@ -358,11 +380,7 @@
     "Tecnicas.md",
     "zettelkasten/jujutsu/Domínio Simples.md",
     "zettelkasten/jujutsu/Expansão de Domínio.md",
-    "templates/Tecnica Inata.md",
-    "zettelkasten/jujutsu/Extensão.md",
     "zettelkasten/jujutsu",
-    "templates/Tecnica Base.md",
-    "templates/note.md",
     "templates",
     "media",
     "zettelkasten"
