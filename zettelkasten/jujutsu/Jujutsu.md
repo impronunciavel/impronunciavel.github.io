@@ -6,7 +6,7 @@ tags:
 --- 
 # **Jujutsu** 
 
-**Jujutsu (<ruby>呪<rt> じゅ</rt> 術 <rt>じゅつ</rt></ruby> _Jujutsu_)**, também conhecido como **Feitiçaria Jujutsu**, é nome que se dá a toda família de habilidades sobrenaturais envolvidas com bruxaria e feitiçaria no mundo, em que ambos **Feiticeiros** (<ruby></ruby> _Jutsushi_) e **Espíritos Amaldiçoados** (<ruby></ruby> _Jurei_) podem acessar através da manipulação da [Energia Amaldiçoada](Energia%20Amaldiçoada). 
+**Jujutsu (<ruby>呪<rt> じゅ</rt> 術 <rt>じゅつ</rt></ruby> _Jujutsu_)**, também conhecido como **Feitiçaria Jujutsu**, é nome que se dá a toda família de habilidades sobrenaturais envolvidas com bruxaria e feitiçaria no mundo, em que ambos **Feiticeiros (<ruby></ruby> _Jutsushi_)** e **[Espíritos Amaldiçoados](Espiritos%20Amaldiçoados)** (<ruby></ruby> _Jurei_) podem acessar através da manipulação da [Energia Amaldiçoada](Energia%20Amaldiçoada). 
 
 **Jujutsu** é o pináculo do sobrenatural no mundo, uma arte secreta e extremamente poderosa, porém complexa desenvolvida para o entendimento da misteriosa **energia negativa** originada das emoções dos seres humanos. É necessário compreender a fundo essa arte antes que possa cair de cabeça na criação de seu personagem.
 
@@ -23,7 +23,6 @@ A **Feitiçaria Jujutsu** então se ramifica em diversos fundamentos que servem 
 
 ## 8. [Energia Reversa](Energia%20Reversa)
 ## 9. [Espiritos Amaldiçoados](Espiritos%20Amaldiçoados)
-
 
 <style>
 	/* Definição das variáveis do tema "obsidianite" */
@@ -256,7 +255,9 @@ A **Feitiçaria Jujutsu** então se ramifica em diversos fundamentos que servem 
 	strong::selection {
 	  -webkit-text-fill-color: var(--text-faint);
 	}
-	
+	rt {
+		-webkit-text-fill-color:#c6d8ff;
+	}
 	/**-------------------**
 	| <KBD> STYLING
 	**--------------------**/

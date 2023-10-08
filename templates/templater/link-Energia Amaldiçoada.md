@@ -1,0 +1,1 @@
+[<% tp.file.selection() %>](Energia%20Amaldiçoada)

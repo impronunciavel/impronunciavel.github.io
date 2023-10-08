@@ -6,7 +6,6 @@
       {
         "id": "cba88b5f436a53a4",
         "type": "tabs",
-        "dimension": 64.42652329749103,
         "children": [
           {
             "id": "a3b03e11c07d732b",
@@ -23,18 +22,6 @@
               "type": "markdown",
               "state": {
                 "file": "templates/note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1593c69b3a5c1d47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/jujutsu/Expansão de Domínio.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,18 +70,6 @@
               "type": "markdown",
               "state": {
                 "file": "zettelkasten/jujutsu/Barreiras.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13fa7f1ec56ead49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/jujutsu/Extensão.md",
                 "mode": "source",
                 "source": false
               }
@@ -198,33 +173,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/jujutsu/Energia Amaldiçoada.md",
+                "file": "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 16
-      },
-      {
-        "id": "e267328994ddc920",
-        "type": "tabs",
-        "dimension": 35.57347670250896,
-        "children": [
-          {
-            "id": "8c98e03568cf3ab8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/templater/tema-obsidianite.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -274,7 +230,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 238
   },
   "right": {
     "id": "5adb29ccdeec2aa8",
@@ -290,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/jujutsu/Energia Amaldiçoada.md",
+                "file": "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/jujutsu/Energia Amaldiçoada.md",
+                "file": "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -330,7 +286,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/jujutsu/Energia Amaldiçoada.md"
+                "file": "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md"
               }
             }
           }
@@ -354,41 +310,50 @@
   },
   "active": "35c4767752ff5817",
   "lastOpenFiles": [
-    "index.md",
-    "zettelkasten/jujutsu/Jujutsu.md",
-    "templates/templater/tema-obsidianite.md",
-    "zettelkasten/jujutsu/Energia Amaldiçoada.md",
+    "zettelkasten/jujutsu/Extensão.md",
+    "Máxima Liberação.md",
     "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
+    "zettelkasten/jujutsu/Expansão de Domínio.md",
+    "Extensão de Domínio.md",
+    "zettelkasten/jujutsu/Barreiras.md",
+    "media/Maximum_Meteor_crashing_into_Shibuya.webp",
+    "media/Cursed_Technique_Lapse_Maximum_Cursed_Energy_Output_Blue_(Anime).gif",
+    "media/Resonance_(Anime).webp",
+    "media/I'm_Nobara_Kugisaki_(Anime).webp",
+    "media/Nanako_using_her_innate_technique.webp",
+    "zettelkasten/jujutsu/Jujutsu.md",
+    "zettelkasten/jujutsu/Energia Amaldiçoada.md",
+    "templates/templater/link-Energia Reversa.md",
+    "templates/templater/link-Energia Amaldiçoada.md",
+    "zettelkasten/jujutsu/Raio Negro.md",
+    "zettelkasten/jujutsu/Clãs.md",
+    "zettelkasten/jujutsu/Energia Reversa.md",
+    "zettelkasten/jujutsu/().md",
+    "zettelkasten/jujutsu/Espiritos Amaldiçoados.md",
+    "zettelkasten/jujutsu/Objetos Amaldiçoados.md",
+    "zettelkasten/jujutsu/Shikigami.md",
     "zettelkasten/jujutsu/Tecnica Máxima.md",
-    "zettelkasten/personagem/Arquetipos Personagem.md",
-    "zettelkasten/jujutsu/Tecnicas Base.md",
-    "zettelkasten/jujutsu/Tecnicas Anti-domínio.md",
+    "zettelkasten/jujutsu/Reversão.md",
+    "zettelkasten/jujutsu/Projeção.md",
     "templates/TODO.md",
     "templates/Tecnica Inata.md",
     "templates/Tecnica Base.md",
     "templates/note.md",
-    "templates/tema-catppuccin.md",
-    "templates/tema-catpuccin-O.md",
-    "zettelkasten/jujutsu/Fundamentos Jujutsu.md",
-    "zettelkasten/jujutsu/Barreiras.md",
-    "zettelkasten/jujutsu/Domínio Simples.md",
-    "zettelkasten/jujutsu/Tecnicas Inatas.md",
-    "zettelkasten/jujutsu/Shikigami.md",
-    "Energia AAmaldiçoada.md",
-    "templates/templater/furigana.md",
-    "templates/templater/japanese.md",
+    "index.md",
+    "templates/templater/link-Tecnicas Amaldiçoadas 4 1 1.md",
+    "media/chakras-in-human-body_500x 1.webp",
+    "media/chakras-in-human-body_500x.webp",
+    "media/Pasted image 20231007210816.png",
+    "media",
+    "media/bodyChakras.png",
     "templates/templater",
-    "templates/link.md",
-    "().md",
     "zettelkasten/sistema",
     "zettelkasten/personagem",
-    "zettelkasten/jujutsu/Reversão.md",
     "templates/obsidianite.css",
     "templates/obsidianite.txt",
     "templates/Novo Documento de Texto.txt",
     "zettelkasten/jujutsu",
     "templates",
-    "media",
-    "zettelkasten"
+    "media"
   ]
 }

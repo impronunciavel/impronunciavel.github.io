@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "path:zettelkasten  ",
   "showTags": false,
   "showAttachments": false,
@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 15783997
       }
+    },
+    {
+      "query": "tag:#TODO  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
     }
   ],
   "collapse-display": false,
@@ -46,6 +53,6 @@
   "repelStrength": 9.16666666666667,
   "linkStrength": 0.760416666666667,
   "linkDistance": 319,
-  "scale": 0.5087618855792607,
-  "close": true
+  "scale": 0.5087618855792616,
+  "close": false
 }

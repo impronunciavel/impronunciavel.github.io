@@ -1,7 +1,6 @@
 ---
 tags:
   - TODO
-  - Fundamentos
 ---
 ### [Voltar Ao Sumário](../../index) [Voltar A Raiz](Jujutsu) [Pagina Anterior]()
 --- 

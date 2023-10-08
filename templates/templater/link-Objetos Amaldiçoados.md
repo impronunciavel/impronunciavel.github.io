@@ -1,0 +1,1 @@
+[<% tp.file.selection() %>](Objetos%20Amaldiçoados)

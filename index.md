@@ -22,7 +22,6 @@ Jujutsu Kaisen RPG system
 ### Testando h3
 ### Testando h4 
 
-
 <style>
 	/* Definição das variáveis do tema "obsidianite" */
 	:root {
@@ -254,7 +253,9 @@ Jujutsu Kaisen RPG system
 	strong::selection {
 	  -webkit-text-fill-color: var(--text-faint);
 	}
-	
+	rt {
+		-webkit-text-fill-color:#c6d8ff;
+	}
 	/**-------------------**
 	| <KBD> STYLING
 	**--------------------**/

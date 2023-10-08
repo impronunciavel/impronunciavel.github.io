@@ -230,7 +230,9 @@
 	strong::selection {
 	  -webkit-text-fill-color: var(--text-faint);
 	}
-	
+	rt {
+		-webkit-text-fill-color:#c6d8ff;
+	}
 	/**-------------------**
 	| <KBD> STYLING
 	**--------------------**/

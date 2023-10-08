@@ -7,9 +7,36 @@ tags:
 --- 
 # **Energia Amaldiçoada**
 
-A **Energia Amaldiçoada (<ruby>呪 <rt>じゅ</rt> 力 <rt>りょく</rt></ruby> _Juryoku_)** é o poder, a chama, a energia que serve de combustível de toda a paranormalidade  
+A **Energia Amaldiçoada (_<ruby>呪 <rt>じゅ</rt> 力 <rt>りょく</rt></ruby> Juryoku_)** ou **Energia Negativa (<ruby>否<rt>ひ</rt>力<rt>りょく</rt></ruby> _Hi-ryoku_)** é o poder, a chama, a energia que serve de combustível de toda a paranormalidade do mundo. Ela surge a partir das **emoções negativas**, principalmente dos **Não Feiticeiros (<ruby>非<rt> ひ</rt>術 <rt>じゅつ</rt> 師 <rt>し</rt> </ruby> _Hijutsushi_)**. **Emoções negativas** muito poderosas como remorso, tristeza e raiva existem entre todos os seres humanos, porém **Não Feiticeiros** estão constantemente vazando essa energia de seus corpos, o acumulo dessa energia ao longo do tempo da origem a **[Espiritos Amaldiçoados](Espiritos%20Amaldiçoados)**. **Feiticeiros** são aqueles treinados a controlar o fluxo de sua **Energia Amaldiçoada** e impedir que ela fique vazando indiscriminadamente. Ao atingir o controle dessa energia vários benefícios podem ser extraídos dela. Dentre esses benefícios estão: 
 
+- Reforçar o corpo do usuário, concedendo a ele mais força e durabilidade. 
+- É a energia base das **[Técnicas Amaldiçoadas](Tecnicas%20Amaldiçoadas)** e **[Objetos Amaldiçoados](Objetos%20Amaldiçoados)**
+- Ver e interagir com **[Espiritos Amaldiçoados](Espiritos%20Amaldiçoados)**
+- É vital no uso da **[Energia Reversa](Energia%20Reversa)**
 
+## **Energia Amaldiçoada no Organismo** 
+
+Por mais misteriosa que seja a **Energia Amaldiçoada** não surge do nada, ela passa por um constante ciclo de criação, dispersão e absorção. Todos estão sendo constantemente afetados e influenciados pela **Energia Negativa** ao redor e essa negatividade acaba indo para o nosso corpo também. A porta de entrada para essa energia é também a sua região de origem. A **Energia Amaldiçoada** surge na região do umbigo também conhecido como o **Chakra Sagrado**.
+![[chakras-in-human-body_500x 1.webp]]
+Apesar de menos usados por terem usos muito mais específicos, os outros 7 Chakras tem suas importâncias e aplicações na arte do **[Jujutsu](Jujutsu)**.
+
+Por exemplo: o acúmulo e emissão de **Energia Amaldiçoada** através do **Vishuddha (Chakra da Garganta)**  é a base da [**Fala Amaldiçoada** ](Tenicas%20Herdadas)do clã **[Inumaki](Clãs.md)**. 
+
+**Sahasrara (Chakra da Coroa ou do espirito)** é o Chakra ligado diretamente à sua **alma** e a base da **Manipulação de Almas** do **[Espirito Amaldiçoado](Espiritos%20Amaldiçoados)** de **Classe Especial -** **Mahito**.
+
+**Ajna (Chakra do Terceiro Olho ou da Cabeça)** está ligado diretamente ao cérebro e por isso que a **[Energia Reversa](Energia%20Reversa) tem origem na cabeça. 
+
+A desrupção e interrupção do fluxo de energia através dos Chakras pode interromper por completo a capacidade de um **feiticeiro** de usar **Jujutsu**. Por isso **[Tecnicas Amaldiçoadas](Tecnicas%20Amaldiçoadas)** direcionadas a afetar ou interromper os Chakras existem e são extremamente perigosas
+
+- Sem o **Anahata (Chakra do Coração)** é impossível canalizar suas emoções e transferi-las para o **Svadhisthana (Chakra Sagrado ou do Umbigo)** , sendo assim impossível de repor sua **Energia Amaldiçoada**. 
+- Sem o **Svadhisthana** é impossível absorver ou transformar as **emoções negativas** em **[Energia Amaldiçoada](Energia%20Amaldiçoada)**  ou canalizar sua energia pelo corpo, sendo assim se torna impossível de usar **[Jujutsu](Jujutsu). 
+- Sem o **Ajna** é impossível canalizar **Energia Negativa** e torná-la em **[Energia Reversa](Energia%20Reversa) . 
+
+Por isso, a melhor forma de se matar **feiticeiros** capazes de usar **[Energia Reversa](Energia%20Reversa)** é justamente **arrancar suas cabeças ou partir seus corpos ao meio, interrompendo a conexão entre o Chakra do Umbigo** com o **Chakra da Cabeça** tornando assim impossível dele usar **[Energia Positiva](Energia%20Reversa)** para se regenerar;
+
+Também é possível mata-los, apesar de bem mais difícil, de alguma maneira interromper seu **Chakra da Cabeça** ou seu **Chakra do Umbigo**, tornando assim impossível dele gerar **[Energia Positiva](Energia%20Reversa)** para se curar antes de realizar o golpe fatal. 
+
+A ultima opção é interromper o **Chakra do Coração** tornando impossível dele repor sua **Energia Amaldiçoada** através dos próprios sentimentos e segurar o resto do combate até que toda a sua reserva de energia restante se esgote e assim ele possa ser morto com um golpe fatal. 
 
 <style>
 	/* Definição das variáveis do tema "obsidianite" */
@@ -242,7 +269,9 @@ A **Energia Amaldiçoada (<ruby>呪 <rt>じゅ</rt> 力 <rt>りょく</rt></ruby
 	strong::selection {
 	  -webkit-text-fill-color: var(--text-faint);
 	}
-	
+	rt {
+		-webkit-text-fill-color:#c6d8ff;
+	}
 	/**-------------------**
 	| <KBD> STYLING
 	**--------------------**/
