@@ -185,7 +185,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/jujutsu/Barreiras.md",
+                "file": "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
                 "mode": "source",
                 "source": false
               }
@@ -242,7 +242,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238
+    "width": 438
   },
   "right": {
     "id": "5adb29ccdeec2aa8",
@@ -258,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/jujutsu/Barreiras.md",
+                "file": "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +275,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/jujutsu/Barreiras.md",
+                "file": "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -298,7 +298,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/jujutsu/Barreiras.md"
+                "file": "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md"
               }
             }
           }
@@ -322,10 +322,16 @@
   },
   "active": "565437a779e1dab8",
   "lastOpenFiles": [
-    "media/Outside_of_Gojo's_Domain_(Anime).webp",
-    "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
+    "zettelkasten/jujutsu/Energia Amaldiçoada.md",
+    "index.md",
     "zettelkasten/jujutsu/Barreiras.md",
-    "media/Choso_inside_an_empty_barrier.webp",
+    "zettelkasten/jujutsu/Domínio Simples.md",
+    "media/chakras.webp",
+    "media/chakras-in-human-body_500x.webp",
+    "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
+    "zettelkasten/jujutsu/Jujutsu.md",
+    "media/domain.webp",
+    "media/choso.webp",
     "zettelkasten/jujutsu/Técnicas-de-Extensão.md",
     "zettelkasten/jujutsu/Shikigami.md",
     "zettelkasten/jujutsu/Clãs.md",
@@ -334,13 +340,11 @@
     "Máxima Liberação.md",
     "zettelkasten/jujutsu/Expansão de Domínio.md",
     "Extensão de Domínio.md",
-    "media/Maximum_Meteor_crashing_into_Shibuya.webp",
-    "media/Cursed_Technique_Lapse_Maximum_Cursed_Energy_Output_Blue_(Anime).gif",
-    "media/Resonance_(Anime).webp",
-    "media/I'm_Nobara_Kugisaki_(Anime).webp",
-    "media/Nanako_using_her_innate_technique.webp",
-    "zettelkasten/jujutsu/Jujutsu.md",
-    "zettelkasten/jujutsu/Energia Amaldiçoada.md",
+    "media/meteoro.webp",
+    "media/gojo.gif",
+    "media/resonance.webp",
+    "media/nobara.webp",
+    "media/nanako.webp",
     "templates/templater/link-Energia Reversa.md",
     "templates/templater/link-Energia Amaldiçoada.md",
     "zettelkasten/jujutsu/Raio Negro.md",
@@ -353,12 +357,8 @@
     "zettelkasten/jujutsu/Projeção.md",
     "templates/TODO.md",
     "templates/Tecnica Inata.md",
-    "templates/Tecnica Base.md",
-    "media/chakras-in-human-body_500x 1.webp",
-    "media/chakras-in-human-body_500x.webp",
     "media/Pasted image 20231007210816.png",
     "media",
-    "media/bodyChakras.png",
     "templates/templater",
     "zettelkasten/sistema",
     "zettelkasten/personagem",

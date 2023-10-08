@@ -24,7 +24,7 @@ Cortinas são barreiras simples muito maiores com uma casca redonda exterior que
 - Força a revelação de espíritos amaldiçoados e de rastros de Energia Amaldiçoada dentro daquele espaço. 
 ## Barreira Aberta 
 Uma zona aparentemente aberta e visivelmente infinita, delimitada por uma casca exterior de painéis hexagonais. Porém diferente de barreiras fechadas, estas podem ser manipuladas livremente e assim a sua estrutura e tamanho podem ser manipuladas livremente em tempo real por um feiticeiro extremamente habilidoso no uso de barreiras. Por isso, barreiras abertas são consideradas as barreiras mais poderosas e difíceis de serem utilizadas. 
->![[Choso_inside_an_empty_barrier.webp]]
+>![choso.webp](../../media/choso.webp)
 
 ## Expansão de Domínio 
 **Expansão de Domínio** (領 (りょう) 域 (いき) 展 (てん) 開 (かい) _Ryōiki Tenkai_) é o nome que se dá a **Técnica Suprema de toda a feitiçaria Jujutsu**, consiste em construir e manifestar fisicamente o **Domínio Inato** do feiticeiro através de uma barreira, revestida e fundida com suas **Técnica Inatas**. 
@@ -36,7 +36,7 @@ Para expandir seu domínio um feiticeiro precisa manifestar e expandir seu **Do
 Um selo de mão único ao usuário é necessário para que ele possa expandir seu domínio. 
 Por ser uma técnica tão avançada e complicada, a **Expansão de Domínio** geralmente é feita com uma **Barreira Simples** e fechada, vista de fora a barreira de um domínio é completamente fechada e se parece com uma esfera negra flutuante que pode até ser movida de lugar se necessário.
 
-![[Outside_of_Gojo's_Domain_(Anime).webp]]
+![domain.webp](../../media/domain.webp)
 
 Porém, é perfeitamente possível expandir um domínio com uma barreira aberta e de fato, a "**Expansão de domínio sem barreira**" como é conhecida a expansão feita com uma barreira aberta, é mais poderosa e acaba sempre sobrejulgando todas as outras expansões de barreira fechada. Porém, o nível de habilidade requerido para tal faz com que apenas Lorde Tengen e Ryoumen Sukuna sejam vistos capazes de realizar tal ato. 
 

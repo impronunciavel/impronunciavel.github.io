@@ -17,7 +17,7 @@ A **Energia Amaldiçoada (_<ruby>呪 <rt>じゅ</rt> 力 <rt>りょく</rt></rub
 ## **Energia Amaldiçoada no Organismo** 
 
 Por mais misteriosa que seja a **Energia Amaldiçoada** não surge do nada, ela passa por um constante ciclo de criação, dispersão e absorção. Todos estão sendo constantemente afetados e influenciados pela **Energia Negativa** ao redor e essa negatividade acaba indo para o nosso corpo também. A porta de entrada para essa energia é também a sua região de origem. A **Energia Amaldiçoada** surge na região do umbigo também conhecido como o **Chakra Sagrado**.
-![[chakras-in-human-body_500x 1.webp]]
+![chakras.webp](../../media/chakras.webp)
 Apesar de menos usados por terem usos muito mais específicos, os outros 7 Chakras tem suas importâncias e aplicações na arte do **[Jujutsu](Jujutsu)**.
 
 Por exemplo: o acúmulo e emissão de **Energia Amaldiçoada** através do **Vishuddha (Chakra da Garganta)**  é a base da [**Fala Amaldiçoada** ](Tenicas%20Herdadas)do clã **[Inumaki](Clãs.md)**. 

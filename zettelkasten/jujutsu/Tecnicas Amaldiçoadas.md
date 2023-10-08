@@ -6,22 +6,22 @@ tags:
 --- 
 # Tecnicas Amaldiçoadas
 
-> [Ativação](#Ativação) 
+> 1. [Ativação](#Ativação) 
 > 	[Lapso](#Lapso)
 > 	[Reversão](#Reversão)
 > 	[Subtração](#Subtração)
-> [Técnica Inata](#Técnicas%20Inatas)
+> 2. [Técnica Inata](#Técnicas%20Inatas)
 > 	[Domínio Inato](#Domínio%20Inato) 
 > 	[Técnicas de Herança](#Técnicas%20de%Herança)
-> [Tipos de Técnicas](#tipos%20de%20Técnicas)
-> 	[Técnica de Extensão](#Técnicas%20de%20Extensão)
-> 		[Liberação Máxima](#Liberação%20Máxima) 
-> 		[Técnicas Máximas](#Técnicas%20Maximas) 
-> 	[Técnicas Fundamentais](#Técnicas%20Fundamentais) 
-> 		[Barreiras](#Barreiras) 
-> 		[Técnicas Antí-Domínio](#Técnicas%20Antí-Domínio)
-> 		[Shikigami](#Shikigami)
-> 		[Raio Negro](#Raio%20Negro) 
+> 3. [Tipos de Técnicas](#tipos%20de%20Técnicas)
+> 	1.  [Técnica de Extensão](#Técnicas%20de%20Extensão)
+> 		1. [Liberação Máxima](#Liberação%20Máxima) 
+> 		2. [Técnicas Máximas](#Técnicas%20Maximas) 
+> 	1. [Técnicas Fundamentais](#Técnicas%20Fundamentais) 
+> 		1. [Barreiras](#Barreiras) 
+> 		2. [Técnicas Antí-Domínio](#Técnicas%20Antí-Domínio)
+> 		3. [Shikigami](#Shikigami)
+> 		4. [Raio Negro](#Raio%20Negro) 
 
 As **Tecnicas Amaldiçoadas (術 (じゅつ) 式 (しき) _Jutsushiki_)** são habilidades especiais carregadas com **[Energia Amaldiçoada](Energia%20Amaldiçoada)**. Existem inúmeras categorias e tipos de **Tecnicas Amaldiçoadas** porém todas compartilham de uma mesma estrutura de: **Ativação**, **Custo** e **Efeito** e a cada uma dessas etapas é possível se adicionar uma **Condição e/ou Pacto**. 
 
@@ -44,12 +44,11 @@ Além da **Reversão** a outra forma, *ainda menos confiável*, de se utilizar *
 > Também usado por Satoru Gojo na sua luta contra Ryoumen Sukuna, para recuperar sua energia e ser capazes de utilizar a sua *Técnica do Vazio - Roxo*  como seu ultimo golpe no rei das maldiçoes.  [Pactos](#Pactos)
 > 
 > O *Roxo* inclusive, é uma técnica que consiste no resultado da junção de uma *técnica de Lapso (Azul)* e uma *técnica de reversão (Vermelho)*.
+
 ## Subtração
 **Técnicas Amaldiçoadas** geralmente necessitam de selos de mão, encantamentos, talismãs, círculos mágicos, rituais ou outros tipos de requerimentos para serem ativadas. A habilidade de um feiticeiro é medida pelo quanto ele consegue omitir e reduzir a quantidade desses elementos para utilizar suas técnicas. Ao mesmo tempo, a inclusão **Proposital** desses elementos aumenta o poder e efetividade geral da técnica. 
 
 Assim combates **Jujutsu** acabam sendo extremamente estratégicos, onde ambos os oponentes estão constantemente balanceando a quantidade de selos e encantamentos para acertar o adversário com mais rapidez ou muito mais força.   
-
-
 # Técnicas Inatas
 As **Técnicas Inatas (_<ruby>生<rt> しょう </rt>得 <rt>とく</rt>術 <rt>じゅつ </rt>式 <rt>しき</rt></ruby> Shōtoku Jutsushiki_)** são habilidades únicas que identificam os feiticeiros, elas são um espelho de quem ele é, sua personalidade, trejeitos, manias, gostos, desgostos, medos e sonhos. Não há nada que represente melhor a personalidade de um feiticeiro do que sua técnica inata, todos seres humanos nascem com essas técnicas gravadas em seu corpo, geralmente, crianças feiticeiras (ou seja, que desde pequenas aprendem a manipular a própria **Energia Amaldiçoada**)  manifestam sua **Técnica Inata** a partir dos aos 6 a 7 anos de idade. 
 
@@ -59,9 +58,10 @@ Na maioria dos casos, um indivíduo possuí apenas uma **Técnica Inata** própi
 
 > Yuta Okkotsu é capaz de usar múltiplas técnicas pois ele usa a *Rainha das Maldições -  Rika* como um reservatório externo, assim ele não sofre das consequências e pode usar quantas técnicas quiser livremente. 
 
-> ![[Nanako_using_her_innate_technique.webp]] A Técnica Inata da Nanako é de manipular coisas através da câmera do seu celular. Ela já até mesmo usou isso para alterar a própria posição dela no espaço mas esgotou suas energias completamente. 
+> ![nanako.webp](../../media/nanako.webp) A Técnica Inata da Nanako é de manipular coisas através da câmera do seu celular. Ela já até mesmo usou isso para alterar a própria posição dela no espaço mas esgotou suas energias completamente. 
 
-> ![[I'm_Nobara_Kugisaki_(Anime).webp]] A Técnica Inata da Nobara consiste em apenas a manipulação do seu Martelo, Pregos e do seu Boneco de Palha. Usando energia amaldiçoada no martelo e pregos para atirar os pregos  como balas a uma longa distância e detoná-los remotamente. 
+> ![nobara.webp](../../media/nobara.webp) A Técnica Inata da Nobara consiste em apenas a manipulação do seu Martelo, Pregos e do seu Boneco de Palha. Usando energia amaldiçoada no martelo e pregos para atirar os pregos  como balas a uma longa distância e detoná-los remotamente. 
+
 ## Domínio Inato
 
 Um **Domínio Inato** (生得領域 (しょうとくりょういき) _Shōtoku Ryōiki_) ou apenas **Domínio** (領域 (りょういき) _Ryōiki_) é um ambiente mental, imaginário que representa a mente do indivíduo que da origem a eles. O domínio Inato é a fundação de onde surgem as **Técnicas Inatas** de um indivíduo. Apesar de serem ambientes primordialmente mentais, esses podem ser construídos fisicamente pelo feiticeiro através da **Técnica Suprema** de todo o **Jujutsu** a **Expansão de Domínio**. 
@@ -74,16 +74,18 @@ A **Técnica Inata**  é apenas a ponta do iceberg do arsenal de um feiticeiro, 
 ## Técnicas de Extensão
 São técnicas criadas em cima da **Técnica Inata**. A inata é uma técnica que não pode ser trocada ou modificada, porém através da criatividade do feiticeiro ela pode ser treinada epode expandir suas capacidades para aumentar sua flexibilidade. Essas técnicas que expandem as capacidades originais da **Técnica Inata** são chamadas **Técnicas de Expansão**
 
-> ![[Resonance_(Anime).webp]] A **Ressonância** da Nobara é um dos melhores exemplos de técnicia de extensão. Ela usa a sua Inata do Martelo, Pregos e o Boneco de palha, para marcar o alvo e acertar seu corpo remotamente com o dano infringido ao boneco de palha. 
+> ![resonance.webp](../../media/resonance.webp)A **Ressonância** da Nobara é um dos melhores exemplos de técnicia de extensão. Ela usa a sua Inata do Martelo, Pregos e o Boneco de palha, para marcar o alvo e acertar seu corpo remotamente com o dano infringido ao boneco de palha. 
+
 ### Liberação Máxima
 As **Liberações Máximas** (出力 (しゅつりょく) 最大 (さいだい) _Shutsuryoku Saidai_) são **Técnicas de Extensão** com a maior quantidade possível de **Energia Amaldiçoada** canalizadas nelas. Não confundi-las no entanto com **Técnicas Máximas**, são coisas diferentes. 
 
-> ![[Cursed_Technique_Lapse_Maximum_Cursed_Energy_Output_Blue_(Anime).gif]]
+> ![gojo.gif](../../media/gojo.gif)
 > Um exemplo de Liberação Máxima, a *Técnica de Lapso - Máxima Liberação : Azul* do Satoru Gojo aumenta drasticamente a intensidade da convergência e atração da *Técnica de Lapso - Azul* e também aumenta muito seu alcance e área de efeito. Mas ainda é a exata mesma técnica, apenas com uma escala absurdamente maior.
+
 ## Técnicas Maximas
 As **[Técnicas  Máximas](#Técnicas%20Máximas)** (<ruby>極 <rt>(ごく) </rt>ノ <rt>(の)</rt> 番<rt> (ばん) </rt>術 <rt>(じゅつ)</rt> 式<rt> (しき)</rt> </ruby> _Gokunoban Jutsushiki_): São **Técnicas de Extensão** que extraem o absoluto e máximo potencial da **Técnica Inata** de onde foram criadas. Elas são as técnicas supremas de qualquer feiticeiro fora do **[Domínio Inato](#Domínio%20Inato)** da  **[Expansão de Domínio](Barreiras#Expansão%20de%20Domínio)**. 
 
-> ![[Maximum_Meteor_crashing_into_Shibuya.webp]] A **Técnica Inata** de Jogo é apenas manipular chamas e lava como um vulcão vivo. Já sua **Técnica Máxima - Meteoro** permite a ele invocar um fodendo meteoro gigantesco e jogá-lo no oponente. É poderosa o bastante para devastar uma cidade inteira. 
+> ![meteoro.webp](../../media/meteoro.webp) A **Técnica Inata** de Jogo é apenas manipular chamas e lava como um vulcão vivo. Já sua **Técnica Máxima - Meteoro** permite a ele invocar um fodendo meteoro gigantesco e jogá-lo no oponente. É poderosa o bastante para devastar uma cidade inteira. 
 # Técnicas Fundamentais
 São técnicas que independem da inata e podem ser aprendidas por qualquer um disposto a treina-las. Elas também são fundamentais para a criação de técnicas mais avançadas ou usos diversos de utilidade em combate. 
 ## Barreiras
