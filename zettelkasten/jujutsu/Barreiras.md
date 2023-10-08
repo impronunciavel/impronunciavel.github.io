@@ -254,14 +254,14 @@ Porém, é perfeitamente possível expandir um domínio com uma barreira aberta 
 	**--------------------**/
 	
 	/* Remove blockquote left margin */
-	blockquote {
+	blockquote, markdown-body blockquote, blockquote {
 	  margin-inline-start: 0;
 	}
 	
 	/* blockquote style overwrite */
 	
 	.markdown-source-view.mod-cm6.is-live-preview .HyperMD-quote,
-	.markdown-preview-view blockquote {
+	.markdown-preview-view blockquote, markdown-body blockquote, blockquote {
 	  position: relative;
 	  padding: 1rem 2rem 1rem 3rem;
 	  color: #bdbdbd;
@@ -277,7 +277,7 @@ Porém, é perfeitamente possível expandir um domínio com uma barreira aberta 
 	}
 	
 	.markdown-source-view.mod-cm6.is-live-preview .HyperMD-quote::before,
-	.markdown-preview-view blockquote::before {
+	.markdown-preview-view blockquote::before, markdown-body blockquote::before, blockquote::before {
 	  content: '';
 	  position: absolute;
 	  top: 0;
@@ -292,7 +292,7 @@ Porém, é perfeitamente possível expandir um domínio com uma barreira aberta 
 	}
 	
 	.HyperMD-quote::after,
-	.markdown-preview-view blockquote::after {
+	.markdown-preview-view blockquote::after, markdown-body blockquote::after, blockquote::after {
 	  content: '';
 	  position: absolute;
 	  bottom: 0;
@@ -309,11 +309,11 @@ Porém, é perfeitamente possível expandir um domínio com uma barreira aberta 
 	  height: 0;
 	}
 	
-	.markdown-preview-view blockquote p {
+	.markdown-preview-view blockquote p, blockquote p {
 	  position: relative;
 	}
 	
-	.markdown-preview-view blockquote p:first-of-type::before {
+	.markdown-preview-view blockquote p:first-of-type::before, blockquote p:first-of-type::before {
 	  content: '!!';
 	  font-style: italic;
 	  font-weight: 700;

@@ -39,6 +39,7 @@ Também é possível mata-los, apesar de bem mais difícil, de alguma maneira in
 A ultima opção é interromper o **Chakra do Coração** tornando impossível dele repor sua **Energia Amaldiçoada** através dos próprios sentimentos e segurar o resto do combate até que toda a sua reserva de energia restante se esgote e assim ele possa ser morto com um golpe fatal. 
 
 
+
 <style>
 	/* Definição das variáveis do tema "obsidianite" */
 	:root {
@@ -253,14 +254,14 @@ A ultima opção é interromper o **Chakra do Coração** tornando impossível d
 	**--------------------**/
 	
 	/* Remove blockquote left margin */
-	blockquote {
+	blockquote, markdown-body blockquote, blockquote {
 	  margin-inline-start: 0;
 	}
 	
 	/* blockquote style overwrite */
 	
 	.markdown-source-view.mod-cm6.is-live-preview .HyperMD-quote,
-	.markdown-preview-view blockquote {
+	.markdown-preview-view blockquote, markdown-body blockquote, blockquote {
 	  position: relative;
 	  padding: 1rem 2rem 1rem 3rem;
 	  color: #bdbdbd;
@@ -276,7 +277,7 @@ A ultima opção é interromper o **Chakra do Coração** tornando impossível d
 	}
 	
 	.markdown-source-view.mod-cm6.is-live-preview .HyperMD-quote::before,
-	.markdown-preview-view blockquote::before {
+	.markdown-preview-view blockquote::before, markdown-body blockquote::before, blockquote::before {
 	  content: '';
 	  position: absolute;
 	  top: 0;
@@ -291,7 +292,7 @@ A ultima opção é interromper o **Chakra do Coração** tornando impossível d
 	}
 	
 	.HyperMD-quote::after,
-	.markdown-preview-view blockquote::after {
+	.markdown-preview-view blockquote::after, markdown-body blockquote::after, blockquote::after {
 	  content: '';
 	  position: absolute;
 	  bottom: 0;
@@ -308,11 +309,11 @@ A ultima opção é interromper o **Chakra do Coração** tornando impossível d
 	  height: 0;
 	}
 	
-	.markdown-preview-view blockquote p {
+	.markdown-preview-view blockquote p, blockquote p {
 	  position: relative;
 	}
 	
-	.markdown-preview-view blockquote p:first-of-type::before {
+	.markdown-preview-view blockquote p:first-of-type::before, blockquote p:first-of-type::before {
 	  content: '!!';
 	  font-style: italic;
 	  font-weight: 700;
