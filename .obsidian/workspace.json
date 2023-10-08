@@ -185,7 +185,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
+                "file": "zettelkasten/jujutsu/Barreiras.md",
                 "mode": "source",
                 "source": false
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
+                "file": "zettelkasten/jujutsu/Barreiras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +275,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
+                "file": "zettelkasten/jujutsu/Barreiras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -298,7 +298,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md"
+                "file": "zettelkasten/jujutsu/Barreiras.md"
               }
             }
           }
@@ -322,19 +322,20 @@
   },
   "active": "565437a779e1dab8",
   "lastOpenFiles": [
+    "zettelkasten/jujutsu/Clãs.md",
+    "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
     "zettelkasten/jujutsu/Energia Amaldiçoada.md",
+    "zettelkasten/jujutsu/Jujutsu.md",
     "index.md",
+    "templates/templater/tema-obsidianite.md",
     "zettelkasten/jujutsu/Barreiras.md",
     "zettelkasten/jujutsu/Domínio Simples.md",
     "media/chakras.webp",
     "media/chakras-in-human-body_500x.webp",
-    "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
-    "zettelkasten/jujutsu/Jujutsu.md",
     "media/domain.webp",
     "media/choso.webp",
     "zettelkasten/jujutsu/Técnicas-de-Extensão.md",
     "zettelkasten/jujutsu/Shikigami.md",
-    "zettelkasten/jujutsu/Clãs.md",
     "zettelkasten/jujutsu/Técnicas Amaldiçoadas.md",
     "zettelkasten/jujutsu/Extensão.md",
     "Máxima Liberação.md",
@@ -356,7 +357,6 @@
     "zettelkasten/jujutsu/Reversão.md",
     "zettelkasten/jujutsu/Projeção.md",
     "templates/TODO.md",
-    "templates/Tecnica Inata.md",
     "media/Pasted image 20231007210816.png",
     "media",
     "templates/templater",

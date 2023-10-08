@@ -26,7 +26,7 @@ Por exemplo: o acúmulo e emissão de **Energia Amaldiçoada** através do **Vis
 
 **Ajna (Chakra do Terceiro Olho ou da Cabeça)** está ligado diretamente ao cérebro e por isso que a **[Energia Reversa](Energia%20Reversa) tem origem na cabeça. 
 
-A desrupção e interrupção do fluxo de energia através dos Chakras pode interromper por completo a capacidade de um **feiticeiro** de usar **Jujutsu**. Por isso **[Tecnicas Amaldiçoadas](Tecnicas%20Amaldiçoadas)** direcionadas a afetar ou interromper os Chakras existem e são extremamente perigosas
+A disrupção e interrupção do fluxo de energia através dos Chakras pode interromper por completo a capacidade de um **feiticeiro** de usar **Jujutsu**. Por isso **[Tecnicas Amaldiçoadas](Tecnicas%20Amaldiçoadas)** direcionadas a afetar ou interromper os Chakras existem e são extremamente perigosas
 
 - Sem o **Anahata (Chakra do Coração)** é impossível canalizar suas emoções e transferi-las para o **Svadhisthana (Chakra Sagrado ou do Umbigo)** , sendo assim impossível de repor sua **Energia Amaldiçoada**. 
 - Sem o **Svadhisthana** é impossível absorver ou transformar as **emoções negativas** em **[Energia Amaldiçoada](Energia%20Amaldiçoada)**  ou canalizar sua energia pelo corpo, sendo assim se torna impossível de usar **[Jujutsu](Jujutsu). 
@@ -37,6 +37,7 @@ Por isso, a melhor forma de se matar **feiticeiros** capazes de usar **[Energia 
 Também é possível mata-los, apesar de bem mais difícil, de alguma maneira interromper seu **Chakra da Cabeça** ou seu **Chakra do Umbigo**, tornando assim impossível dele gerar **[Energia Positiva](Energia%20Reversa)** para se curar antes de realizar o golpe fatal. 
 
 A ultima opção é interromper o **Chakra do Coração** tornando impossível dele repor sua **Energia Amaldiçoada** através dos próprios sentimentos e segurar o resto do combate até que toda a sua reserva de energia restante se esgote e assim ele possa ser morto com um golpe fatal. 
+
 
 <style>
 	/* Definição das variáveis do tema "obsidianite" */
@@ -246,6 +247,80 @@ A ultima opção é interromper o **Chakra do Coração** tornando impossível d
 	  padding: 0.5rem;
 	  color: var(--text-sub-accent);
 	  background-color: var(--background-primary);
+	}
+	/**-------------------**
+	| BLOCKQUOTE STYLING
+	**--------------------**/
+	
+	/* Remove blockquote left margin */
+	blockquote {
+	  margin-inline-start: 0;
+	}
+	
+	/* blockquote style overwrite */
+	
+	.markdown-source-view.mod-cm6.is-live-preview .HyperMD-quote,
+	.markdown-preview-view blockquote {
+	  position: relative;
+	  padding: 1rem 2rem 1rem 3rem;
+	  color: #bdbdbd;
+	  border-top-right-radius: 5px;
+	  border-bottom-right-radius: 5px;
+	  margin-bottom: 2em;
+	  margin-right: 0 !important;
+	  border-left: 3px rgba(14, 210, 247, 0.5) solid;
+	  border-top: transparent;
+	  border-bottom: transparent;
+	  border-right: transparent;
+	  background: linear-gradient(135deg, rgba(32, 28, 41, 0.45), #100e17);
+	}
+	
+	.markdown-source-view.mod-cm6.is-live-preview .HyperMD-quote::before,
+	.markdown-preview-view blockquote::before {
+	  content: '';
+	  position: absolute;
+	  top: 0;
+	  left: 0px;
+	  height: 2px;
+	  width: 60%;
+	  background: linear-gradient(90deg, rgba(13, 185, 215, 0.5), #13111a);
+	}
+	
+	.markdown-source-view.mod-cm6.is-live-preview .HyperMD-quote + .HyperMD-quote::before {
+	  display: none;
+	}
+	
+	.HyperMD-quote::after,
+	.markdown-preview-view blockquote::after {
+	  content: '';
+	  position: absolute;
+	  bottom: 0;
+	  left: 0px;
+	  height: 2px;
+	  width: 25%;
+	  background: linear-gradient(90deg, rgba(13, 185, 215, 0.5), #15131c);
+	}
+	
+	.HyperMD-quote.HyperMD-quote-2::before,
+	.HyperMD-quote.HyperMD-quote-3::before,
+	.HyperMD-quote.HyperMD-quote-4::before,
+	.HyperMD-quote.HyperMD-quote-5::before {
+	  height: 0;
+	}
+	
+	.markdown-preview-view blockquote p {
+	  position: relative;
+	}
+	
+	.markdown-preview-view blockquote p:first-of-type::before {
+	  content: '!!';
+	  font-style: italic;
+	  font-weight: 700;
+	  font-size: 18px;
+	  color: var(--text-accent);
+	  position: absolute;
+	  top: 0.1rem;
+	  left: -1.8rem;
 	}
 	/**-------------------**
 	| STRONG/BOLD STYLES

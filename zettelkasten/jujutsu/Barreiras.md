@@ -40,8 +40,6 @@ Por ser uma técnica tão avançada e complicada, a **Expansão de Domínio** ge
 
 Porém, é perfeitamente possível expandir um domínio com uma barreira aberta e de fato, a "**Expansão de domínio sem barreira**" como é conhecida a expansão feita com uma barreira aberta, é mais poderosa e acaba sempre sobrejulgando todas as outras expansões de barreira fechada. Porém, o nível de habilidade requerido para tal faz com que apenas Lorde Tengen e Ryoumen Sukuna sejam vistos capazes de realizar tal ato. 
 
-### 
-
 <style>
 	/* Definição das variáveis do tema "obsidianite" */
 	:root {
@@ -250,6 +248,80 @@ Porém, é perfeitamente possível expandir um domínio com uma barreira aberta 
 	  padding: 0.5rem;
 	  color: var(--text-sub-accent);
 	  background-color: var(--background-primary);
+	}
+	/**-------------------**
+	| BLOCKQUOTE STYLING
+	**--------------------**/
+	
+	/* Remove blockquote left margin */
+	blockquote {
+	  margin-inline-start: 0;
+	}
+	
+	/* blockquote style overwrite */
+	
+	.markdown-source-view.mod-cm6.is-live-preview .HyperMD-quote,
+	.markdown-preview-view blockquote {
+	  position: relative;
+	  padding: 1rem 2rem 1rem 3rem;
+	  color: #bdbdbd;
+	  border-top-right-radius: 5px;
+	  border-bottom-right-radius: 5px;
+	  margin-bottom: 2em;
+	  margin-right: 0 !important;
+	  border-left: 3px rgba(14, 210, 247, 0.5) solid;
+	  border-top: transparent;
+	  border-bottom: transparent;
+	  border-right: transparent;
+	  background: linear-gradient(135deg, rgba(32, 28, 41, 0.45), #100e17);
+	}
+	
+	.markdown-source-view.mod-cm6.is-live-preview .HyperMD-quote::before,
+	.markdown-preview-view blockquote::before {
+	  content: '';
+	  position: absolute;
+	  top: 0;
+	  left: 0px;
+	  height: 2px;
+	  width: 60%;
+	  background: linear-gradient(90deg, rgba(13, 185, 215, 0.5), #13111a);
+	}
+	
+	.markdown-source-view.mod-cm6.is-live-preview .HyperMD-quote + .HyperMD-quote::before {
+	  display: none;
+	}
+	
+	.HyperMD-quote::after,
+	.markdown-preview-view blockquote::after {
+	  content: '';
+	  position: absolute;
+	  bottom: 0;
+	  left: 0px;
+	  height: 2px;
+	  width: 25%;
+	  background: linear-gradient(90deg, rgba(13, 185, 215, 0.5), #15131c);
+	}
+	
+	.HyperMD-quote.HyperMD-quote-2::before,
+	.HyperMD-quote.HyperMD-quote-3::before,
+	.HyperMD-quote.HyperMD-quote-4::before,
+	.HyperMD-quote.HyperMD-quote-5::before {
+	  height: 0;
+	}
+	
+	.markdown-preview-view blockquote p {
+	  position: relative;
+	}
+	
+	.markdown-preview-view blockquote p:first-of-type::before {
+	  content: '!!';
+	  font-style: italic;
+	  font-weight: 700;
+	  font-size: 18px;
+	  color: var(--text-accent);
+	  position: absolute;
+	  top: 0.1rem;
+	  left: -1.8rem;
 	}
 	/**-------------------**
 	| STRONG/BOLD STYLES
@@ -523,4 +595,3 @@ Porém, é perfeitamente possível expandir um domínio com uma barreira aberta 
 	  color: var(--text-faint);
 	  margin-top: 10px;
 	}</style>
-

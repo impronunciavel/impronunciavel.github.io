@@ -12,16 +12,6 @@
 	4. [Restrição Celestial](zettelkasten/personagem/Restrição%20Celestial) 
 3. [O sistema NDX] 
 
-Jujutsu Kaisen RPG system
-[Tecnicas Inatas](zettelkasten/jujutsu/Tecnicas%20Inatas)
-[Tecnicas Base](zettelkasten/jujutsu/Tecnicas%20Base)
-
-**testando o novo tema |strong|** _testando o tema |em|_ 
-# Testando h1
-## Testando h2
-### Testando h3
-### Testando h4 
-
 <style>
 	/* Definição das variáveis do tema "obsidianite" */
 	:root {
@@ -230,6 +220,80 @@ Jujutsu Kaisen RPG system
 	  padding: 0.5rem;
 	  color: var(--text-sub-accent);
 	  background-color: var(--background-primary);
+	}
+	/**-------------------**
+	| BLOCKQUOTE STYLING
+	**--------------------**/
+	
+	/* Remove blockquote left margin */
+	blockquote {
+	  margin-inline-start: 0;
+	}
+	
+	/* blockquote style overwrite */
+	
+	.markdown-source-view.mod-cm6.is-live-preview .HyperMD-quote,
+	.markdown-preview-view blockquote {
+	  position: relative;
+	  padding: 1rem 2rem 1rem 3rem;
+	  color: #bdbdbd;
+	  border-top-right-radius: 5px;
+	  border-bottom-right-radius: 5px;
+	  margin-bottom: 2em;
+	  margin-right: 0 !important;
+	  border-left: 3px rgba(14, 210, 247, 0.5) solid;
+	  border-top: transparent;
+	  border-bottom: transparent;
+	  border-right: transparent;
+	  background: linear-gradient(135deg, rgba(32, 28, 41, 0.45), #100e17);
+	}
+	
+	.markdown-source-view.mod-cm6.is-live-preview .HyperMD-quote::before,
+	.markdown-preview-view blockquote::before {
+	  content: '';
+	  position: absolute;
+	  top: 0;
+	  left: 0px;
+	  height: 2px;
+	  width: 60%;
+	  background: linear-gradient(90deg, rgba(13, 185, 215, 0.5), #13111a);
+	}
+	
+	.markdown-source-view.mod-cm6.is-live-preview .HyperMD-quote + .HyperMD-quote::before {
+	  display: none;
+	}
+	
+	.HyperMD-quote::after,
+	.markdown-preview-view blockquote::after {
+	  content: '';
+	  position: absolute;
+	  bottom: 0;
+	  left: 0px;
+	  height: 2px;
+	  width: 25%;
+	  background: linear-gradient(90deg, rgba(13, 185, 215, 0.5), #15131c);
+	}
+	
+	.HyperMD-quote.HyperMD-quote-2::before,
+	.HyperMD-quote.HyperMD-quote-3::before,
+	.HyperMD-quote.HyperMD-quote-4::before,
+	.HyperMD-quote.HyperMD-quote-5::before {
+	  height: 0;
+	}
+	
+	.markdown-preview-view blockquote p {
+	  position: relative;
+	}
+	
+	.markdown-preview-view blockquote p:first-of-type::before {
+	  content: '!!';
+	  font-style: italic;
+	  font-weight: 700;
+	  font-size: 18px;
+	  color: var(--text-accent);
+	  position: absolute;
+	  top: 0.1rem;
+	  left: -1.8rem;
 	}
 	/**-------------------**
 	| STRONG/BOLD STYLES
