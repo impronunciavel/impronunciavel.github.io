@@ -173,14 +173,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
+                "file": "zettelkasten/jujutsu/Barreiras.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "565437a779e1dab8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/jujutsu/Barreiras.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -246,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
+                "file": "zettelkasten/jujutsu/Barreiras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +275,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
+                "file": "zettelkasten/jujutsu/Barreiras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,7 +298,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md"
+                "file": "zettelkasten/jujutsu/Barreiras.md"
               }
             }
           }
@@ -308,14 +320,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "35c4767752ff5817",
+  "active": "565437a779e1dab8",
   "lastOpenFiles": [
+    "media/Outside_of_Gojo's_Domain_(Anime).webp",
+    "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
+    "zettelkasten/jujutsu/Barreiras.md",
+    "media/Choso_inside_an_empty_barrier.webp",
+    "zettelkasten/jujutsu/Técnicas-de-Extensão.md",
+    "zettelkasten/jujutsu/Shikigami.md",
+    "zettelkasten/jujutsu/Clãs.md",
+    "zettelkasten/jujutsu/Técnicas Amaldiçoadas.md",
     "zettelkasten/jujutsu/Extensão.md",
     "Máxima Liberação.md",
-    "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
     "zettelkasten/jujutsu/Expansão de Domínio.md",
     "Extensão de Domínio.md",
-    "zettelkasten/jujutsu/Barreiras.md",
     "media/Maximum_Meteor_crashing_into_Shibuya.webp",
     "media/Cursed_Technique_Lapse_Maximum_Cursed_Energy_Output_Blue_(Anime).gif",
     "media/Resonance_(Anime).webp",
@@ -326,21 +344,16 @@
     "templates/templater/link-Energia Reversa.md",
     "templates/templater/link-Energia Amaldiçoada.md",
     "zettelkasten/jujutsu/Raio Negro.md",
-    "zettelkasten/jujutsu/Clãs.md",
     "zettelkasten/jujutsu/Energia Reversa.md",
     "zettelkasten/jujutsu/().md",
     "zettelkasten/jujutsu/Espiritos Amaldiçoados.md",
     "zettelkasten/jujutsu/Objetos Amaldiçoados.md",
-    "zettelkasten/jujutsu/Shikigami.md",
     "zettelkasten/jujutsu/Tecnica Máxima.md",
     "zettelkasten/jujutsu/Reversão.md",
     "zettelkasten/jujutsu/Projeção.md",
     "templates/TODO.md",
     "templates/Tecnica Inata.md",
     "templates/Tecnica Base.md",
-    "templates/note.md",
-    "index.md",
-    "templates/templater/link-Tecnicas Amaldiçoadas 4 1 1.md",
     "media/chakras-in-human-body_500x 1.webp",
     "media/chakras-in-human-body_500x.webp",
     "media/Pasted image 20231007210816.png",
