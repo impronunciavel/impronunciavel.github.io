@@ -185,7 +185,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/jujutsu/Barreiras.md",
+                "file": "templates/TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/jujutsu/Barreiras.md",
+                "file": "templates/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +275,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/jujutsu/Barreiras.md",
+                "file": "templates/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -298,7 +298,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/jujutsu/Barreiras.md"
+                "file": "templates/TODO.md"
               }
             }
           }
@@ -322,12 +322,15 @@
   },
   "active": "565437a779e1dab8",
   "lastOpenFiles": [
-    "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
-    "index.md",
-    "zettelkasten/jujutsu/Jujutsu.md",
-    "zettelkasten/jujutsu/Energia Amaldiçoada.md",
-    "templates/templater/tema-obsidianite.md",
+    "templates/Tecnica Inata.md",
+    "templates/Tecnica Base.md",
+    "templates/TODO.md",
     "zettelkasten/jujutsu/Barreiras.md",
+    "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
+    "zettelkasten/jujutsu/Energia Amaldiçoada.md",
+    "zettelkasten/jujutsu/Jujutsu.md",
+    "index.md",
+    "templates/templater/tema-obsidianite.md",
     "zettelkasten/jujutsu/Clãs.md",
     "zettelkasten/jujutsu/Domínio Simples.md",
     "media/chakras.webp",
@@ -354,9 +357,6 @@
     "zettelkasten/jujutsu/Espiritos Amaldiçoados.md",
     "zettelkasten/jujutsu/Objetos Amaldiçoados.md",
     "zettelkasten/jujutsu/Tecnica Máxima.md",
-    "zettelkasten/jujutsu/Reversão.md",
-    "zettelkasten/jujutsu/Projeção.md",
-    "templates/TODO.md",
     "media/Pasted image 20231007210816.png",
     "media",
     "templates/templater",

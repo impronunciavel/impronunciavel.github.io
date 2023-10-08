@@ -11,7 +11,6 @@
 	3. [Atributos](zettelkasten/personagem/Atributos)
 	4. [Restrição Celestial](zettelkasten/personagem/Restrição%20Celestial) 
 3. [O sistema NDX] 
-
 <style>
 	/* Definição das variáveis do tema "obsidianite" */
 	:root {
@@ -236,7 +235,7 @@
 	.markdown-preview-view blockquote, markdown-body blockquote, blockquote {
 	  position: relative;
 	  padding: 1rem 2rem 1rem 3rem;
-	  color: #bdbdbd;
+	  color: #ffaedb;
 	  border-top-right-radius: 5px;
 	  border-bottom-right-radius: 5px;
 	  margin-bottom: 2em;

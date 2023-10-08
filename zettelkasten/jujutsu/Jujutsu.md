@@ -26,6 +26,7 @@ A **Feitiçaria Jujutsu** então se ramifica em diversos fundamentos que servem 
 
 
 
+
 <style>
 	/* Definição das variáveis do tema "obsidianite" */
 	:root {
@@ -250,7 +251,7 @@ A **Feitiçaria Jujutsu** então se ramifica em diversos fundamentos que servem 
 	.markdown-preview-view blockquote, markdown-body blockquote, blockquote {
 	  position: relative;
 	  padding: 1rem 2rem 1rem 3rem;
-	  color: #bdbdbd;
+	  color: #ffaedb;
 	  border-top-right-radius: 5px;
 	  border-bottom-right-radius: 5px;
 	  margin-bottom: 2em;

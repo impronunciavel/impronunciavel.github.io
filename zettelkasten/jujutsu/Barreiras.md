@@ -40,6 +40,7 @@ Por ser uma técnica tão avançada e complicada, a **Expansão de Domínio** ge
 
 Porém, é perfeitamente possível expandir um domínio com uma barreira aberta e de fato, a "**Expansão de domínio sem barreira**" como é conhecida a expansão feita com uma barreira aberta, é mais poderosa e acaba sempre sobrejulgando todas as outras expansões de barreira fechada. Porém, o nível de habilidade requerido para tal faz com que apenas Lorde Tengen e Ryoumen Sukuna sejam vistos capazes de realizar tal ato. 
 
+
 <style>
 	/* Definição das variáveis do tema "obsidianite" */
 	:root {
@@ -264,7 +265,7 @@ Porém, é perfeitamente possível expandir um domínio com uma barreira aberta 
 	.markdown-preview-view blockquote, markdown-body blockquote, blockquote {
 	  position: relative;
 	  padding: 1rem 2rem 1rem 3rem;
-	  color: #bdbdbd;
+	  color: #ffaedb;
 	  border-top-right-radius: 5px;
 	  border-bottom-right-radius: 5px;
 	  margin-bottom: 2em;
