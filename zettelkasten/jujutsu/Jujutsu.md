@@ -24,9 +24,6 @@ A **Feitiçaria Jujutsu** então se ramifica em diversos fundamentos que servem 
 ## 8. [Energia Reversa](Energia%20Reversa)
 ## 9. [Espiritos Amaldiçoados](Espiritos%20Amaldiçoados)
 
-
-
-
 <style>
 	/* Definição das variáveis do tema "obsidianite" */
 	:root {
@@ -251,7 +248,7 @@ A **Feitiçaria Jujutsu** então se ramifica em diversos fundamentos que servem 
 	.markdown-preview-view blockquote, markdown-body blockquote, blockquote {
 	  position: relative;
 	  padding: 1rem 2rem 1rem 3rem;
-	  color: #ffaedb;
+	  color: #ffaedb !important;
 	  border-top-right-radius: 5px;
 	  border-bottom-right-radius: 5px;
 	  margin-bottom: 2em;
@@ -305,7 +302,7 @@ A **Feitiçaria Jujutsu** então se ramifica em diversos fundamentos que servem 
 	  font-style: italic;
 	  font-weight: 700;
 	  font-size: 18px;
-	  color: var(--text-accent);
+	  color: #ffaedb;
 	  position: absolute;
 	  top: 0.1rem;
 	  left: -1.8rem;

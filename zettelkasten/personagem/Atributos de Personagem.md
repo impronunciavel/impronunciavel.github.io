@@ -4,42 +4,25 @@ tags:
 ---
 ### [Voltar Ao Sumário](../../index) [Voltar A Raiz](Jujutsu) [Pagina Anterior]()
 --- 
-# Barreiras
+# Recursos do Personagem
 
-**[Técnicas de Barreira](Barreiras)** (結 (けっ) 界 (かい) 術 (じゅつ) 式 (しき) _Kekkai Jutsushiki_) são técnicas que criam zonas de barreiras de **Energia Amaldiçoada** que podem tanto prender uma entidade em um espaço ou impedir uma entidade de entrar em um certo espaço. Uma cortina por exemplo é uma [**Técnica de Barreira**](Barreiras) tão simples que não precisa de uma Inata para ser usada. 
+## Raio Negro - 2 
 
-Para criar uma barreira o feiticeiro deve criar uma formula própria do zero que inclui todas as condições e efeitos que a barreira deve ter, depois deve criar um encantamento longo e poderoso o bastante para suportar estas condições e por ultimo deve fluir a energia amaldiçoada para dentro da formula e ativá-la através do **[Lapso](Tecnicas%20Amaldiçoadas#Lapso)** ou **Reversão**. 
+## Plot Twist - 3 
 
-Em suma o processo para usar barreiras se dá em 3 etapas. Sendo que a primeira requer que o feiticeiro tome um tempo para criar a formula própria adequada para aquela barreira. O que demanda tempo e geralmente não é viável criar uma barreira nova no meio de um combate já que você não terá tempo para pensar na formula na hora ao menos que seja um absoluto gênio. 
+## Energia Amaldiçoada 
 
-- Crie a formula e grave ela dentro de você 
-- Recite e realize os encantamentos, selos de mão e rituais adequados para criar a barreira 
-- Canalize a energia pela formula. 
-## Barreira Simples 
-Barreiras Simples ou Barreiras Fechadas, são usadas para limitar, prender ou negar a entrada ou saída de outras entidades em um determinado espaço. Qualquer um com energia amaldiçoada suficiente consegue aprender a usar barreiras simples. 
-### Cortinas
-Cortinas são barreiras simples muito maiores com uma casca redonda exterior que possuem dois usos básicos mas extremamente importantes e uteis. 
+## HP 
 
-- Esconde tudo o que ocorre dentro dela. É impossível, do lado de fora, saber o que se passa dentro de uma cortina. Uma ilusão faz com que quem vê de fora pense que não há absolutamente nada acontecendo ali. Ela preserva a noção de normalidade de quem vê de fora. 
-- Força a revelação de espíritos amaldiçoados e de rastros de Energia Amaldiçoada dentro daquele espaço. 
-## Barreira Aberta 
-Uma zona aparentemente aberta e visivelmente infinita, delimitada por uma casca exterior de painéis hexagonais. Porém diferente de barreiras fechadas, estas podem ser manipuladas livremente e assim a sua estrutura e tamanho podem ser manipuladas livremente em tempo real por um feiticeiro extremamente habilidoso no uso de barreiras. Por isso, barreiras abertas são consideradas as barreiras mais poderosas e difíceis de serem utilizadas. 
->![choso.webp](../../media/choso.webp)
+# Atributos 
 
-## Expansão de Domínio 
-**Expansão de Domínio** (領 (りょう) 域 (いき) 展 (てん) 開 (かい) _Ryōiki Tenkai_) é o nome que se dá a **Técnica Suprema de toda a feitiçaria Jujutsu**, consiste em construir e manifestar fisicamente o **Domínio Inato** do feiticeiro através de uma barreira, revestida e fundida com suas **Técnica Inatas**. 
+## Físicos 
+### Força 
+### Agilidade 
+### Destreza 
+### Constituição 
 
-A **Expansão de Domínio** amplifica e aprimora todas as técnicas do feiticeiro dentro do domínio e qualquer técnica ativada dentro dele terá acerto garantido. 
-
-Para expandir seu domínio um feiticeiro precisa manifestar e expandir seu **Domínio Inato** com uma quantidade absurda de **Energia Amaldiçoada** enquanto usa uma **Barreira** para construir esse domínio fisicamente dentro do espaço delimitado pela barreira. O feiticeiro então imbue  a suas **Técnica Inatas** junto da barreira para completar a expansão, permitindo assim que ele possa usar suas técnicas de qualquer lugar dentro do domínio. 
-
-Um selo de mão único ao usuário é necessário para que ele possa expandir seu domínio. 
-Por ser uma técnica tão avançada e complicada, a **Expansão de Domínio** geralmente é feita com uma **Barreira Simples** e fechada, vista de fora a barreira de um domínio é completamente fechada e se parece com uma esfera negra flutuante que pode até ser movida de lugar se necessário.
-
-![domain.webp](../../media/domain.webp)
-
-Porém, é perfeitamente possível expandir um domínio com uma barreira aberta e de fato, a "**Expansão de domínio sem barreira**" como é conhecida a expansão feita com uma barreira aberta, é mais poderosa e acaba sempre sobrejulgando todas as outras expansões de barreira fechada. Porém, o nível de habilidade requerido para tal faz com que apenas Lorde Tengen e Ryoumen Sukuna sejam vistos capazes de realizar tal ato. 
-
+Dissonância 
 <style>
 	/* Definição das variáveis do tema "obsidianite" */
 	:root {
