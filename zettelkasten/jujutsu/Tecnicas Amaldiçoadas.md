@@ -26,11 +26,11 @@ tags:
 As **Tecnicas Amaldiçoadas (術 (じゅつ) 式 (しき) _Jutsushiki_)** são habilidades especiais carregadas com **[Energia Amaldiçoada](Energia%20Amaldiçoada)**. Existem inúmeras categorias e tipos de **Tecnicas Amaldiçoadas** porém todas compartilham de uma mesma estrutura de: **Ativação**, **Custo** e **Efeito** e a cada uma dessas etapas é possível se adicionar uma **Condição e/ou Pacto**. 
 
 Toda **Técnica Amaldiçoada** deve ser criada seguindo essa estrutura. 
-# Ativação 
+<h1 id ="Ativação">Ativação</h1> 
 **Tecnicas Amaldiçoadas** são ativadas da forma mais básica, simplesmente ao canalizar **Energia Amaldiçoada** através de um dos dois processos básicos: O **Lapso** ou a **Reversão**. Se fossemos comparar **Energia Amaldiçoada** com a eletricidade por exemplo, as **Técnicas Amaldiçoadas** seriam como os eletrodomésticos que são alimentados por ela e realizam várias funções diferentes. A **Energia Amaldiçoada** quando canalizada é processada de uma maneira semelhante a uma formula matemática, ou um programa de computador, em funções e composição dessas funções e é a união dessas várias funções mais simples juntas que dá origem ao efeito real da técnica. 
-## Lapso
+<h2 id ="Lapso">Lapso</h2>
 O **Lapso (_Junten_)** ou "*Giro  para Frente*" é a forma mais básica, padrão ou neutra de se ativar uma **Técnica Amaldiçoada**.  
-## Reversão
+<h2 id ="Reversão">Reversão</h2>
 A **Reversão (_Hanten_)** ou "*Giro para Trás*", é o ato de reverter o sentido do fluxo da sua **Energia Amaldiçoada**, multiplicando **Energia Negativa** x **Energia Negativa** produzindo assim **Energia Positiva**. A **Energia Negativa** não é muito efetiva para alguns processos como regenerar ferimentos, curar aliados ou **anular outras técnicas**, já a **Energia Positiva** é perfeitamente capaz de tudo isso. Porém, requer um controle muito preciso da sua própria energia para conseguir utilizar, então é raro encontrar feiticeiros capazes de utiliza-la livremente.  **Espíritos Amaldiçoados** de **Primeira Classe** ou superior, são capazes naturalmente de utilizar **Energia Positiva** para se regenerar e isso os torna ameaças ainda maiores. 
 
 Porém, tais vantagens não vem de graça, o uso da **Energia Reversa** trás danos ao cérebro e apenas o mais alto nível dos feiticeiros são capazes de curar tais danos. Vulgo... apenas Satoru Gojo e Ryoumen Sukuna foram mostrados capazes de tal feito... 
@@ -45,11 +45,11 @@ Além da **Reversão** a outra forma, *ainda menos confiável*, de se utilizar *
 > 
 > O *Roxo* inclusive, é uma técnica que consiste no resultado da junção de uma *técnica de Lapso (Azul)* e uma *técnica de reversão (Vermelho)*.
 
-## Subtração
+<h2 id ="Subtração">Subtração</h2>
 **Técnicas Amaldiçoadas** geralmente necessitam de selos de mão, encantamentos, talismãs, círculos mágicos, rituais ou outros tipos de requerimentos para serem ativadas. A habilidade de um feiticeiro é medida pelo quanto ele consegue omitir e reduzir a quantidade desses elementos para utilizar suas técnicas. Ao mesmo tempo, a inclusão **Proposital** desses elementos aumenta o poder e efetividade geral da técnica. 
 
 Assim combates **Jujutsu** acabam sendo extremamente estratégicos, onde ambos os oponentes estão constantemente balanceando a quantidade de selos e encantamentos para acertar o adversário com mais rapidez ou muito mais força.   
-# Técnicas Inatas
+<h1 id ="Técnicas Inatas">Técnicas Inatas</h1>
 As **Técnicas Inatas (_<ruby>生<rt> しょう </rt>得 <rt>とく</rt>術 <rt>じゅつ </rt>式 <rt>しき</rt></ruby> Shōtoku Jutsushiki_)** são habilidades únicas que identificam os feiticeiros, elas são um espelho de quem ele é, sua personalidade, trejeitos, manias, gostos, desgostos, medos e sonhos. Não há nada que represente melhor a personalidade de um feiticeiro do que sua técnica inata, todos seres humanos nascem com essas técnicas gravadas em seu corpo, geralmente, crianças feiticeiras (ou seja, que desde pequenas aprendem a manipular a própria **Energia Amaldiçoada**)  manifestam sua **Técnica Inata** a partir dos aos 6 a 7 anos de idade. 
 
 **Técnicas Inatas** são próprias, elas compõem mais de 80% do arsenal de um feiticeiro e como todos somos diferentes, por mais que se tente é praticamente impossível copiar a **Técnica Inata** de alguém, já que no fim, sempre teremos algo de diferente. 
@@ -62,41 +62,42 @@ Na maioria dos casos, um indivíduo possuí apenas uma **Técnica Inata** própi
 
 > ![nobara.webp](../../media/nobara.webp) A Técnica Inata da Nobara consiste em apenas a manipulação do seu Martelo, Pregos e do seu Boneco de Palha. Usando energia amaldiçoada no martelo e pregos para atirar os pregos  como balas a uma longa distância e detoná-los remotamente. 
 
-## Domínio Inato
+<h2 id ="Domínio Inato">Domínio Inato</h2>
 
 Um **Domínio Inato** (生得領域 (しょうとくりょういき) _Shōtoku Ryōiki_) ou apenas **Domínio** (領域 (りょういき) _Ryōiki_) é um ambiente mental, imaginário que representa a mente do indivíduo que da origem a eles. O domínio Inato é a fundação de onde surgem as **Técnicas Inatas** de um indivíduo. Apesar de serem ambientes primordialmente mentais, esses podem ser construídos fisicamente pelo feiticeiro através da **Técnica Suprema** de todo o **Jujutsu** a **Expansão de Domínio**. 
-## Técnicas de Herança
+<h2 id ="Técnicas de Herança">Técnicas de Herança</h2>
 Além das **Técnicas Inatas** um feiticeiro também pode possuir técnicas passadas a ele através de seus pais. Os **Grandes Clãs** do mundo Jujutsu são aquelas famílias onde devido à manutenção da linhagem e incesto, é garantido  que membros do clã nasçam com as **Técnicas Inatas** do clã. Porém é possível feiticeiros normais passarem suas técnicas para seus filhos, as chances apenas são mais baixas. 
 
 --- 
-# Tipos de Técnicas
+<h1 id ="Tipos de Técnicas">Tipos de Técnicas</h1>
 A **Técnica Inata**  é apenas a ponta do iceberg do arsenal de um feiticeiro, há técnicas que são criadas a partir da inata e há **[Técnicas Fundamentais](#Técnicas%20Fundamentais)** que qualquer um pode aprender e utilizar e não depende da **Técnica Inata** do feiticeiro. 
-## Técnicas de Extensão
+<h2 id ="Técnicas de Extensão">Técnicas de Extensão</h2>
 São técnicas criadas em cima da **Técnica Inata**. A inata é uma técnica que não pode ser trocada ou modificada, porém através da criatividade do feiticeiro ela pode ser treinada epode expandir suas capacidades para aumentar sua flexibilidade. Essas técnicas que expandem as capacidades originais da **Técnica Inata** são chamadas **Técnicas de Expansão**
 
 > ![resonance.webp](../../media/resonance.webp)A **Ressonância** da Nobara é um dos melhores exemplos de técnicia de extensão. Ela usa a sua Inata do Martelo, Pregos e o Boneco de palha, para marcar o alvo e acertar seu corpo remotamente com o dano infringido ao boneco de palha. 
 
-### Liberação Máxima
+<h2 id ="Liberação Máxima">Liberação Máxima</h2>
 As **Liberações Máximas** (出力 (しゅつりょく) 最大 (さいだい) _Shutsuryoku Saidai_) são **Técnicas de Extensão** com a maior quantidade possível de **Energia Amaldiçoada** canalizadas nelas. Não confundi-las no entanto com **Técnicas Máximas**, são coisas diferentes. 
 
 > ![gojo.gif](../../media/gojo.gif)
 > Um exemplo de Liberação Máxima, a *Técnica de Lapso - Máxima Liberação : Azul* do Satoru Gojo aumenta drasticamente a intensidade da convergência e atração da *Técnica de Lapso - Azul* e também aumenta muito seu alcance e área de efeito. Mas ainda é a exata mesma técnica, apenas com uma escala absurdamente maior.
 
-## Técnicas Maximas
+<h2 id ="Técnicas Maximas">Técnicas Maximas</h2>
 As **[Técnicas  Máximas](#Técnicas%20Máximas)** (<ruby>極 <rt>(ごく) </rt>ノ <rt>(の)</rt> 番<rt> (ばん) </rt>術 <rt>(じゅつ)</rt> 式<rt> (しき)</rt> </ruby> _Gokunoban Jutsushiki_): São **Técnicas de Extensão** que extraem o absoluto e máximo potencial da **Técnica Inata** de onde foram criadas. Elas são as técnicas supremas de qualquer feiticeiro fora do **[Domínio Inato](#Domínio%20Inato)** da  **[Expansão de Domínio](Barreiras#Expansão%20de%20Domínio)**. 
 
 > ![meteoro.webp](../../media/meteoro.webp) A **Técnica Inata** de Jogo é apenas manipular chamas e lava como um vulcão vivo. Já sua **Técnica Máxima - Meteoro** permite a ele invocar um fodendo meteoro gigantesco e jogá-lo no oponente. É poderosa o bastante para devastar uma cidade inteira. 
-# Técnicas Fundamentais
+
+<h1 id ="Técnicas Fundamentais">Técnicas Fundamentais</h1>
 São técnicas que independem da inata e podem ser aprendidas por qualquer um disposto a treina-las. Elas também são fundamentais para a criação de técnicas mais avançadas ou usos diversos de utilidade em combate. 
-## Barreiras
+<h2 id ="Barreiras">Barreiras</h2>
 **[Técnicas de Barreira](Barreiras)** (結 (けっ) 界 (かい) 術 (じゅつ) 式 (しき) _Kekkai Jutsushiki_) são técnicas que criam zonas de barreiras de **Energia Amaldiçoada** que podem tanto prender uma entidade em um espaço ou impedir uma entidade de entrar em um certo espaço. Uma cortina por exemplo é uma [**Técnica de Barreira**](Barreiras) tão simples que não precisa de uma Inata para ser usada. 
 
 Mais sobre [Técnicas de Barreiras](Barreiras)
-## Técnicas Anti-domínio 
+<h2 id ="Técnicas Anti-domínio">Técnicas Anti-domínio</h2> 
 
-## Shikigami
+<h2 id ="Shikigami">Shikigami</h2>
 
-## Raio Negro
+<h2 id ="Raio Negro">Raio Negro</h2>
 
 
 <style>

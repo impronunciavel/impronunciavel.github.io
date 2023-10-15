@@ -209,7 +209,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
+                "file": "templates/templater/section link - h1.md",
                 "mode": "source",
                 "source": false
               }
@@ -282,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
+                "file": "templates/templater/section link - h1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +299,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
+                "file": "templates/templater/section link - h1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -322,7 +322,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md"
+                "file": "templates/templater/section link - h1.md"
               }
             }
           }
@@ -344,16 +344,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "02a8d74a8e70213d",
+  "active": "5ad0baeefdefac02",
   "lastOpenFiles": [
-    "zettelkasten/jujutsu/Energia Amaldiçoada.md",
     "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
+    "templates/templater/section link - h1.md",
+    "templates/templater/section link - h2.md",
+    "templates/templater/link-Objetos Amaldiçoados.md",
+    "templates/templater/link-Energia Amaldiçoada.md",
+    "templates/templater/link-Tecnicas Amaldiçoadas 4 1 1.md",
+    "templates/templater/link-Tecnicas Amaldiçoadas 4 1 1 1.md",
+    "templates/templater/link-Tecnicas Amaldiçoadas 4 1 1 1 1.md",
+    "zettelkasten/jujutsu/Energia Amaldiçoada.md",
     "zettelkasten/jujutsu/Energia Reversa.md",
     "Como o Sukuna cortou o Gojo.md",
     "media/Pasted image 20231014220621.png",
     "index.md",
-    "templates/templater/link-Objetos Amaldiçoados.md",
-    "templates/templater/link-Energia Amaldiçoada.md",
     "zettelkasten/personagem/Atributos de Personagem.md",
     "zettelkasten/personagem/Arquetipos Personagem.md",
     "zettelkasten/jujutsu/Jujutsu.md",
@@ -368,14 +373,10 @@
     "templates/Tecnica Inata.md",
     "templates/Tecnica Base.md",
     "zettelkasten/jujutsu/Clãs.md",
-    "zettelkasten/jujutsu/Domínio Simples.md",
     "media/chakras.webp",
     "media/chakras-in-human-body_500x.webp",
     "media/domain.webp",
     "media/choso.webp",
-    "zettelkasten/jujutsu/Técnicas-de-Extensão.md",
-    "zettelkasten/jujutsu/Shikigami.md",
-    "zettelkasten/jujutsu/Técnicas Amaldiçoadas.md",
     "media/meteoro.webp",
     "media/gojo.gif",
     "media/resonance.webp",
