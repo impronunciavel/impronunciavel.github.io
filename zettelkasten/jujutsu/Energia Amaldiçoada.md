@@ -12,7 +12,7 @@ A **Energia Amaldiçoada (_<ruby>呪 <rt>じゅ</rt> 力 <rt>りょく</rt></rub
 - Reforçar o corpo do usuário, concedendo a ele mais força e durabilidade. 
 - É a energia base das **[Técnicas Amaldiçoadas](Tecnicas%20Amaldiçoadas)** e **[Objetos Amaldiçoados](Objetos%20Amaldiçoados)**
 - Ver e interagir com **[Espiritos Amaldiçoados](Espiritos%20Amaldiçoados)**
-- É vital no uso da **[Energia Reversa](Energia%20Reversa)**
+- É vital no uso da **[Energia Reversa](Tecnicas%20Amaldiçoadas#Reversão)**
 
 ## **Energia Amaldiçoada no Organismo** 
 

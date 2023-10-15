@@ -185,14 +185,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/personagem/Atributos de Personagem.md",
+                "file": "zettelkasten/jujutsu/Barreiras.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "236416b49626f840",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02a8d74a8e70213d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -258,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/personagem/Atributos de Personagem.md",
+                "file": "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +299,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/personagem/Atributos de Personagem.md",
+                "file": "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -298,7 +322,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/personagem/Atributos de Personagem.md"
+                "file": "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md"
               }
             }
           }
@@ -320,20 +344,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "565437a779e1dab8",
+  "active": "02a8d74a8e70213d",
   "lastOpenFiles": [
-    "zettelkasten/personagem/Arquetipos Personagem.md",
-    "zettelkasten/personagem/Atributos de Personagem.md",
+    "zettelkasten/jujutsu/Energia Amaldiçoada.md",
+    "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
+    "zettelkasten/jujutsu/Energia Reversa.md",
+    "Como o Sukuna cortou o Gojo.md",
+    "media/Pasted image 20231014220621.png",
     "index.md",
+    "templates/templater/link-Objetos Amaldiçoados.md",
+    "templates/templater/link-Energia Amaldiçoada.md",
+    "zettelkasten/personagem/Atributos de Personagem.md",
+    "zettelkasten/personagem/Arquetipos Personagem.md",
     "zettelkasten/jujutsu/Jujutsu.md",
     "zettelkasten/jujutsu/Objetos Amaldiçoados.md",
     "zettelkasten/jujutsu/Tecnicas Base.md",
     "zettelkasten/jujutsu/Tecnicas Inatas.md",
-    "zettelkasten/jujutsu/Energia Reversa.md",
-    "zettelkasten/jujutsu/Energia Amaldiçoada.md",
     "zettelkasten/jujutsu/Espiritos Amaldiçoados.md",
     "zettelkasten/jujutsu/Raio Negro.md",
-    "zettelkasten/jujutsu/Tecnicas Amaldiçoadas.md",
     "zettelkasten/jujutsu/Barreiras.md",
     "templates/templater/tema-obsidianite.md",
     "templates/TODO.md",
@@ -348,16 +376,11 @@
     "zettelkasten/jujutsu/Técnicas-de-Extensão.md",
     "zettelkasten/jujutsu/Shikigami.md",
     "zettelkasten/jujutsu/Técnicas Amaldiçoadas.md",
-    "zettelkasten/jujutsu/Extensão.md",
-    "Máxima Liberação.md",
-    "zettelkasten/jujutsu/Expansão de Domínio.md",
-    "Extensão de Domínio.md",
     "media/meteoro.webp",
     "media/gojo.gif",
     "media/resonance.webp",
     "media/nobara.webp",
     "media/nanako.webp",
-    "media/Pasted image 20231007210816.png",
     "media",
     "templates/templater",
     "zettelkasten/sistema",

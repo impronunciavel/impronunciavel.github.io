@@ -6,22 +6,22 @@ tags:
 --- 
 # Tecnicas Amaldiçoadas
 
-> 1. [Ativação](#Ativação) 
-> 	[Lapso](#Lapso)
-> 	[Reversão](#Reversão)
-> 	[Subtração](#Subtração)
-> 2. [Técnica Inata](#Técnicas%20Inatas)
-> 	[Domínio Inato](#Domínio%20Inato) 
-> 	[Técnicas de Herança](#Técnicas%20de%Herança)
-> 3. [Tipos de Técnicas](#tipos%20de%20Técnicas)
-> 	1.  [Técnica de Extensão](#Técnicas%20de%20Extensão)
-> 		1. [Liberação Máxima](#Liberação%20Máxima) 
-> 		2. [Técnicas Máximas](#Técnicas%20Maximas) 
-> 	1. [Técnicas Fundamentais](#Técnicas%20Fundamentais) 
-> 		1. [Barreiras](#Barreiras) 
-> 		2. [Técnicas Antí-Domínio](#Técnicas%20Antí-Domínio)
-> 		3. [Shikigami](#Shikigami)
-> 		4. [Raio Negro](#Raio%20Negro) 
+> 1. [Ativação](Tecnicas%20Amaldiçoadas#Ativação) 
+> 	[Lapso](Tecnicas%20Amaldiçoadas#Lapso)
+> 	[Reversão](Tecnicas%20Amaldiçoadas#Reversão)
+> 	[Subtração](Tecnicas%20Amaldiçoadas#Subtração)
+> 2. [Técnica Inata](Tecnicas%20Amaldiçoadas#Técnicas%20Inatas)
+> 	[Domínio Inato](Tecnicas%20Amaldiçoadas#Domínio%20Inato) 
+> 	[Técnicas de Herança](Tecnicas%20Amaldiçoadas#Técnicas%20de%Herança)
+> 3. [Tipos de Técnicas](Tecnicas%20Amaldiçoadas#tipos%20de%20Técnicas)
+> 	1.  [Técnica de Extensão](Tecnicas%20Amaldiçoadas#Técnicas%20de%20Extensão)
+> 		1. [Liberação Máxima](Tecnicas%20Amaldiçoadas#Liberação%20Máxima) 
+> 		2. [Técnicas Máximas](Tecnicas%20Amaldiçoadas#Técnicas%20Maximas) 
+> 	1. [Técnicas Fundamentais](Tecnicas%20Amaldiçoadas#Técnicas%20Fundamentais) 
+> 		1. [Barreiras](Tecnicas%20Amaldiçoadas#Barreiras) 
+> 		2. [Técnicas Antí-Domínio](Tecnicas%20Amaldiçoadas#Técnicas%20Antí-Domínio)
+> 		3. [Shikigami](Tecnicas%20Amaldiçoadas#Shikigami)
+> 		4. [Raio Negro](Tecnicas%20Amaldiçoadas#Raio%20Negro) 
 
 As **Tecnicas Amaldiçoadas (術 (じゅつ) 式 (しき) _Jutsushiki_)** são habilidades especiais carregadas com **[Energia Amaldiçoada](Energia%20Amaldiçoada)**. Existem inúmeras categorias e tipos de **Tecnicas Amaldiçoadas** porém todas compartilham de uma mesma estrutura de: **Ativação**, **Custo** e **Efeito** e a cada uma dessas etapas é possível se adicionar uma **Condição e/ou Pacto**. 
 
